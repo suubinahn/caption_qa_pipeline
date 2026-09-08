@@ -1,0 +1,33 @@
+﻿id,type,caption_preview,score
+cat_string_toy,correct,"An orange cat is lying on a rug indoors,",0.9998754262924194
+cat_string_toy,wrong_caption,A group of horses is running together ac,1.2259144568815827e-05
+cat_string_toy,wrong_caption_action,An orange cat is sleeping on a rug indoo,0.9995908141136169
+cat_string_toy,wrong_caption_attribute,"A black dog is lying on a rug indoors, p",0.01472875289618969
+cooking_thermometer,correct,"In an animated kitchen scene, two adults",0.9999186992645264
+cooking_thermometer,wrong_caption,A man is sitting and playing an acoustic,1.2885172509413678e-05
+cooking_thermometer,wrong_caption_action,"In an animated kitchen scene, two adults",0.02818967029452324
+cooking_thermometer,wrong_caption_attribute,"In an animated kitchen scene, two adults",0.9996629953384399
+van_driving,correct,A green van is being driven down a stree,0.9973258972167969
+van_driving,wrong_caption,A group of people in traditional clothin,7.635500514879823e-05
+van_driving,wrong_caption_action,A green van is parked and empty on a str,0.9770575761795044
+van_driving,wrong_caption_attribute,A red sports car is being driven down a ,0.000482259871205315
+dog_park,correct,Three dogs are playing together outdoors,0.9997007846832275
+dog_park,wrong_caption,A man in a red shirt is riding a bicycle,0.0001367375662084669
+dog_park,wrong_caption_action,Three dogs are sleeping together outdoor,0.9101440906524658
+dog_park,wrong_caption_attribute,Three cats are playing together outdoors,0.9933254718780518
+horse_herd,correct,A small group of horses is running toget,0.991561233997345
+horse_herd,wrong_caption,"An orange cat is lying on a rug indoors,",1.3838902304996736e-05
+horse_herd,wrong_caption_action,A small group of horses is standing stil,0.8916144371032715
+horse_herd,wrong_caption_attribute,A small group of cows is running togethe,0.5596591830253601
+guitar_play,correct,A man is sitting and playing an acoustic,0.994696855545044
+guitar_play,wrong_caption,A green van is being driven down a stree,1.5419245755765587e-05
+guitar_play,wrong_caption_action,A man is standing and singing without an,0.09324473142623901
+guitar_play,wrong_caption_attribute,A woman is sitting and playing a violin ,0.0021061531733721495
+people_dancing,correct,A group of people in traditional red and,0.999864935874939
+people_dancing,wrong_caption,Three dogs are playing together outdoors,2.9800839911331423e-05
+people_dancing,wrong_caption_action,A group of people in traditional red and,0.8180509209632874
+people_dancing,wrong_caption_attribute,A group of people in plain black busines,0.5572842359542847
+bicycle_ride,correct,A man in a red shirt is riding a bicycle,0.9559694528579712
+bicycle_ride,wrong_caption,"In an animated kitchen scene, two adults",3.1823001336306334e-05
+bicycle_ride,wrong_caption_action,A man in a red shirt is standing still n,0.0573098286986351
+bicycle_ride,wrong_caption_attribute,A woman in a blue shirt is riding a bicy,0.021921416744589806

@@ -1,0 +1,3 @@
+﻿id,video_path,caption,error
+example_01,./data/pilot_videos/clip_001.mp4,The car stops at a red light while pedestrians cross the street.,video not found
+example_02,./data/pilot_videos/clip_002.mp4,A vehicle changes lanes to overtake a slow-moving truck.,video not found

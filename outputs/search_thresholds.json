@@ -1,0 +1,83 @@
+{
+  "The vehicle is turning right.": {
+    "threshold": -0.006654411554336548,
+    "field": "motion",
+    "value": "turning right",
+    "calib_f1": 0.33333333333333337,
+    "holdout_accuracy": 0.24,
+    "holdout_precision": 0.13953488372093023,
+    "holdout_recall": 0.8571428571428571
+  },
+  "The vehicle is turning left.": {
+    "threshold": 0.035380274057388306,
+    "field": "motion",
+    "value": "turning left",
+    "calib_f1": 0.25,
+    "holdout_accuracy": 0.72,
+    "holdout_precision": 0.2777777777777778,
+    "holdout_recall": 0.8333333333333334
+  },
+  "The vehicle is stopped.": {
+    "threshold": 0.0312441885471344,
+    "field": "motion",
+    "value": "stop",
+    "calib_f1": 0.28571428571428575,
+    "holdout_accuracy": 0.74,
+    "holdout_precision": 0.1,
+    "holdout_recall": 0.2
+  },
+  "The car drives through a tunnel.": {
+    "threshold": -0.009120255708694458,
+    "field": "road_context",
+    "value": "tunnel",
+    "calib_f1": 0.8571428571428571,
+    "holdout_accuracy": 0.96,
+    "holdout_precision": 1.0,
+    "holdout_recall": 0.75
+  },
+  "The car crosses a bridge.": {
+    "threshold": 0.023440569639205933,
+    "field": "road_context",
+    "value": "bridge",
+    "calib_f1": 0.6666666666666666,
+    "holdout_accuracy": 0.86,
+    "holdout_precision": 0.0,
+    "holdout_recall": 0.0
+  },
+  "The scene is at night.": {
+    "threshold": 0.020246058702468872,
+    "field": "time_of_day",
+    "value": "nighttime",
+    "calib_f1": 0.7368421052631579,
+    "holdout_accuracy": 0.76,
+    "holdout_precision": 0.5454545454545454,
+    "holdout_recall": 0.46153846153846156
+  },
+  "It is raining.": {
+    "threshold": -0.16952061653137207,
+    "field": "weather",
+    "value": "rainy",
+    "calib_f1": 0.5079365079365079,
+    "holdout_accuracy": 0.42,
+    "holdout_precision": 0.38636363636363635,
+    "holdout_recall": 0.8947368421052632
+  },
+  "It is snowing.": {
+    "threshold": 0.10104209184646606,
+    "field": "weather",
+    "value": "snowy",
+    "calib_f1": 0.5,
+    "holdout_accuracy": 0.94,
+    "holdout_precision": 0.0,
+    "holdout_recall": 0.0
+  },
+  "The vehicle drives on a multi-lane highway.": {
+    "threshold": 0.03510865569114685,
+    "field": "road_type",
+    "value": "multi-lane highway",
+    "calib_f1": 0.6865671641791045,
+    "holdout_accuracy": 0.46,
+    "holdout_precision": 0.4,
+    "holdout_recall": 1.0
+  }
+}

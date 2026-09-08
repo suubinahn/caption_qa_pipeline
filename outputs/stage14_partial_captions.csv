@@ -1,0 +1,9 @@
+﻿id,correct_caption,10%,30%,50%,70%,90%,PASS수,REVIEW수,FAIL수,패턴
+cat_string_toy,"An orange cat is lying on a rug indoors, playing with a hang",0.8192,0.9992,0.9999,0.9958,0.0661,3,0,2,부분 정답
+cooking_thermometer,"In an animated kitchen scene, two adults and a child check a",0.9903,0.9999,0.9999,0.9999,0.9999,5,0,0,일관됨(5/5 PASS)
+van_driving,A green van is being driven down a street past a brick build,0.0402,0.0127,0.9973,0.1504,0.0015,1,0,4,부분 정답
+dog_park,Three dogs are playing together outdoors in a park with bare,0.0,0.6336,0.1903,0.9997,0.725,1,0,4,부분 정답
+horse_herd,A small group of horses is running together across a green p,0.972,0.963,0.1863,0.9916,0.3226,3,0,2,부분 정답
+guitar_play,A man is sitting and playing an acoustic guitar indoors in f,0.9947,0.9947,0.9942,0.9933,0.9893,5,0,0,일관됨(5/5 PASS)
+people_dancing,A group of people in traditional red and blue clothing are g,0.999,0.6903,0.9999,0.9977,0.2137,3,0,2,부분 정답
+bicycle_ride,A man in a red shirt is riding a bicycle down a city street.,0.0101,0.017,0.956,0.1069,0.0097,1,0,4,부분 정답

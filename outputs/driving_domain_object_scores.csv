@@ -1,0 +1,448 @@
+﻿video_id,word,tag,query,score
+example_01,ego-vehicle,NN,a photo of a ego-vehicle,0.0071
+example_01,road,NN,a photo of a road,0.3543
+example_01,motion,NN,a photo of a motion,0.1643
+example_01,wet,NN,a photo of a wet,0.3638
+example_01,asphalt,NN,a photo of a asphalt,0.0893
+example_01,daylight,NN,a photo of a daylight,0.2672
+example_01,road,NN,a photo of a road,0.3543
+example_01,bridge,NN,a photo of a bridge,0.0018
+example_01,trees,NNS,a photo of trees,0.0895
+example_01,autumn,NN,a photo of a autumn,0.4045
+example_01,leaves,NNS,a photo of leaves,0.0387
+example_01,signs,NNS,a photo of signs,0.0041
+example_01,directions,NNS,a photo of directions,0.0227
+example_01,eonju-ro,NNP,a photo of a eonju-ro,0.0348
+example_01,”,NNP,a photo of a ”,0.1074
+example_01,“,NNP,a photo of a “,0.1769
+example_01,대치역,NNP,a photo of a 대치역,0.1937
+example_01,”,NNP,a photo of a ”,0.1074
+example_01,sign,NN,a photo of a sign,0.0148
+example_01,“,NNP,a photo of a “,0.1769
+example_01,언주로.,NNP,a photo of a 언주로.,0.2136
+example_01,”,NNP,a photo of a ”,0.1074
+example_01,ahead,NNP,a photo of a ahead,0.0672
+example_01,vehicles,NNS,a photo of vehicles,0.2574
+example_01,cars,NNS,a photo of cars,0.2915
+example_01,buses,NNS,a photo of buses,0.0046
+example_01,pedestrians,NNS,a photo of pedestrians,0.0125
+example_01,street,NN,a photo of a street,0.3318
+example_01,traffic,NN,a photo of a traffic,0.399
+example_01,light,NN,a photo of a light,0.0297
+example_01,right,NN,a photo of a right,0.138
+example_01,van,NN,a photo of a van,0.0222
+example_01,curb,NN,a photo of a curb,0.1167
+example_01,suv,NNP,a photo of a suv,0.0092
+example_01,environment,NN,a photo of a environment,0.143
+example_01,features,NNS,a photo of features,0.0904
+example_01,buildings,NNS,a photo of buildings,0.183
+example_01,roadway,NN,a photo of a roadway,0.4001
+example_01,sun,NN,a photo of a sun,0.108
+example_01,’,NN,a photo of a ’,0.1242
+example_01,s,NN,a photo of a s,0.0569
+example_01,glare,NN,a photo of a glare,0.754
+example_01,flares,NNS,a photo of flares,0.0201
+example_01,clouds,NNS,a photo of clouds,0.0022
+example_01,events,NNS,a photo of events,0.0144
+example_01,clip,NN,a photo of a clip,0.1755
+example_02,proceeds,NNS,a photo of proceeds,0.0108
+example_02,city,NN,a photo of a city,0.1804
+example_02,street,NN,a photo of a street,0.2279
+example_02,motion,NN,a photo of a motion,0.4284
+example_02,asphalt,NN,a photo of a asphalt,0.0318
+example_02,sky,NN,a photo of a sky,0.1027
+example_02,raindrops,NNS,a photo of raindrops,0.0054
+example_02,view,NN,a photo of a view,0.0357
+example_02,windshield,NN,a photo of a windshield,0.5366
+example_02,road,NN,a photo of a road,0.277
+example_02,buildings,NNS,a photo of buildings,0.0598
+example_02,trees,NNS,a photo of trees,0.0188
+example_02,bare,NN,a photo of a bare,0.0841
+example_02,signs,NNS,a photo of signs,0.0033
+example_02,format,NN,a photo of a format,0.2409
+example_02,directions,NNS,a photo of directions,0.0189
+example_02,route,NN,a photo of a route,0.1927
+example_02,names,NNS,a photo of names,0.0066
+example_02,vehicles,NNS,a photo of vehicles,0.2851
+example_02,van,NN,a photo of a van,0.0165
+example_02,sedan,NN,a photo of a sedan,0.0096
+example_02,stripes,NNS,a photo of stripes,0.0106
+example_02,cars,NNS,a photo of cars,0.2934
+example_02,trucks,NNS,a photo of trucks,0.007
+example_02,lanes,NNS,a photo of lanes,0.5411
+example_02,sides,NNS,a photo of sides,0.043
+example_02,vehicles,NNS,a photo of vehicles,0.2851
+example_02,right,NN,a photo of a right,0.1095
+example_02,movement,NN,a photo of a movement,0.5303
+example_02,ego-vehicle,NN,a photo of a ego-vehicle,0.0093
+example_02,’,NNP,a photo of a ’,0.1397
+example_02,path,NN,a photo of a path,0.0432
+example_02,hazards,NNS,a photo of hazards,0.0167
+example_02,maneuvers,NNS,a photo of maneuvers,0.0512
+example_02,frames,NNS,a photo of frames,0.0156
+example_03,proceeds,NNS,a photo of proceeds,0.0127
+example_03,city,NN,a photo of a city,0.1981
+example_03,street,NN,a photo of a street,0.2774
+example_03,motion,NN,a photo of a motion,0.5972
+example_03,road,NN,a photo of a road,0.2905
+example_03,surface,NN,a photo of a surface,0.1095
+example_03,slick,NN,a photo of a slick,0.1635
+example_03,rain,NN,a photo of a rain,0.2043
+example_03,view,NN,a photo of a view,0.0365
+example_03,windshield,NN,a photo of a windshield,0.0817
+example_03,daylight,NN,a photo of a daylight,0.1698
+example_03,environment,NN,a photo of a environment,0.1367
+example_03,buildings,NNS,a photo of buildings,0.097
+example_03,storefronts,NNS,a photo of storefronts,0.0086
+example_03,pedestrians,NNS,a photo of pedestrians,0.063
+example_03,sidewalks,NNS,a photo of sidewalks,0.0855
+example_03,umbrellas,NNS,a photo of umbrellas,0.0001
+example_03,downpour,NN,a photo of a downpour,0.0743
+example_03,traffic,NNP,a photo of a traffic,0.5373
+example_03,silver,NN,a photo of a silver,0.0682
+example_03,suv,NNP,a photo of a suv,0.0615
+example_03,front,NN,a photo of a front,0.0909
+example_03,orange,NN,a photo of a orange,0.0085
+example_03,taxi,NN,a photo of a taxi,0.0576
+example_03,right,NN,a photo of a right,0.1048
+example_03,sedans,NNS,a photo of sedans,0.1119
+example_03,vans,NNS,a photo of vans,0.012
+example_03,lanes,NNS,a photo of lanes,0.2632
+example_03,direction,NN,a photo of a direction,0.1067
+example_03,road,NNP,a photo of a road,0.2905
+example_03,markings,NNS,a photo of markings,0.1609
+example_03,lane,NN,a photo of a lane,0.3373
+example_03,dividers,NNS,a photo of dividers,0.0213
+example_03,crosswalks,NNS,a photo of crosswalks,0.357
+example_03,traffic,NN,a photo of a traffic,0.5373
+example_03,signs,NNS,a photo of signs,0.001
+example_03,maneuvers,NNS,a photo of maneuvers,0.0644
+example_03,hazards,NNS,a photo of hazards,0.011
+example_03,frames,NNS,a photo of frames,0.0136
+example_03,city,NN,a photo of a city,0.1981
+example_03,traffic,NN,a photo of a traffic,0.5373
+example_03,conditions,NNS,a photo of conditions,0.1348
+example_04,proceeds,NNS,a photo of proceeds,0.0116
+example_04,city,NN,a photo of a city,0.2407
+example_04,street,NN,a photo of a street,0.3396
+example_04,course,NN,a photo of a course,0.0963
+example_04,asphalt,NN,a photo of a asphalt,0.0745
+example_04,surface,NN,a photo of a surface,0.0937
+example_04,overcast,NN,a photo of a overcast,0.0935
+example_04,conditions,NNS,a photo of conditions,0.1419
+example_04,road,NN,a photo of a road,0.3654
+example_04,buildings,NNS,a photo of buildings,0.1623
+example_04,right,NN,a photo of a right,0.1975
+example_04,mix,NN,a photo of a mix,0.0999
+example_04,mid-rise,NN,a photo of a mid-rise,0.1723
+example_04,structures,NNS,a photo of structures,0.0417
+example_04,left,NN,a photo of a left,0.2616
+example_04,bare,NN,a photo of a bare,0.1063
+example_04,trees,NNS,a photo of trees,0.0293
+example_04,sidewalks,NNS,a photo of sidewalks,0.1373
+example_04,pedestrians,NNPS,a photo of pedestrians,0.0504
+example_04,umbrellas,NNS,a photo of umbrellas,0.0001
+example_04,sidewalk,NN,a photo of a sidewalk,0.0388
+example_04,bus,NN,a photo of a bus,0.041
+example_04,travels,NNS,a photo of travels,0.1416
+example_04,direction,NN,a photo of a direction,0.1809
+example_04,vehicles,NNS,a photo of vehicles,0.2291
+example_04,sedans,NNS,a photo of sedans,0.0801
+example_04,suv,NNP,a photo of a suv,0.0119
+example_04,lanes,NNS,a photo of lanes,0.4345
+example_04,direction,NN,a photo of a direction,0.1809
+example_04,overhead,NNP,a photo of a overhead,0.065
+example_04,road,NN,a photo of a road,0.3654
+example_04,sign,NN,a photo of a sign,0.0327
+example_04,arrows,NNS,a photo of arrows,0.0039
+example_04,korean,NNP,a photo of a korean,0.0595
+example_04,text,NN,a photo of a text,0.0463
+example_04,bus,NN,a photo of a bus,0.041
+example_04,route,NN,a photo of a route,0.2532
+example_04,traffic,NN,a photo of a traffic,0.253
+example_04,sign,NN,a photo of a sign,0.0327
+example_04,route,NN,a photo of a route,0.2532
+example_04,information,NN,a photo of a information,0.1586
+example_04,maneuvers,NNS,a photo of maneuvers,0.0644
+example_04,hazards,NNS,a photo of hazards,0.0174
+example_04,clip,NN,a photo of a clip,0.2265
+example_05,proceeds,NNS,a photo of proceeds,0.0248
+example_05,city,NN,a photo of a city,0.0489
+example_05,street,NN,a photo of a street,0.2154
+example_05,motion,NN,a photo of a motion,0.4591
+example_05,raindrops,NNS,a photo of raindrops,0.1737
+example_05,windshield,NN,a photo of a windshield,0.8722
+example_05,streaks,NNS,a photo of streaks,0.0679
+example_05,wet,NN,a photo of a wet,0.615
+example_05,asphalt,NN,a photo of a asphalt,0.0808
+example_05,road,NN,a photo of a road,0.3856
+example_05,barrier,NN,a photo of a barrier,0.1178
+example_05,left,NN,a photo of a left,0.1577
+example_05,line,NN,a photo of a line,0.103
+example_05,trees,NNS,a photo of trees,0.1094
+example_05,right,NN,a photo of a right,0.1296
+example_05,streetlights,NNS,a photo of streetlights,0.0858
+example_05,traffic,NN,a photo of a traffic,0.0865
+example_05,signs,NNS,a photo of signs,0.0048
+example_05,gray,NN,a photo of a gray,0.0364
+example_05,sky,NN,a photo of a sky,0.1293
+example_05,ahead,NNP,a photo of a ahead,0.3699
+example_05,vehicles,NNS,a photo of vehicles,0.1744
+example_05,lanes,NNS,a photo of lanes,0.4825
+example_05,sedan,NN,a photo of a sedan,0.0044
+example_05,truck,NN,a photo of a truck,0.0163
+example_05,right,NN,a photo of a right,0.1296
+example_05,cars,NNS,a photo of cars,0.1727
+example_05,left,NN,a photo of a left,0.1577
+example_05,speed,NN,a photo of a speed,0.6477
+example_05,limit,NN,a photo of a limit,0.1158
+example_05,sign,NN,a photo of a sign,0.0051
+example_05,”,NNP,a photo of a ”,0.0912
+example_05,roadway,NN,a photo of a roadway,0.4227
+example_05,signs,NNS,a photo of signs,0.0048
+example_05,route,NN,a photo of a route,0.2176
+example_05,maneuvers,NNS,a photo of maneuvers,0.075
+example_05,hazards,NNS,a photo of hazards,0.0536
+example_05,vehicles,NNS,a photo of vehicles,0.1744
+example_05,positions,NNS,a photo of positions,0.1197
+example_05,road,NN,a photo of a road,0.3856
+example_05,events,NNS,a photo of events,0.0637
+example_06,proceeds,NNS,a photo of proceeds,0.0182
+example_06,city,NN,a photo of a city,0.1782
+example_06,street,NN,a photo of a street,0.3837
+example_06,skies,NNS,a photo of skies,0.0063
+example_06,road,NN,a photo of a road,0.485
+example_06,surface,NN,a photo of a surface,0.0804
+example_06,intersection,NN,a photo of a intersection,0.4754
+example_06,crosswalk,NN,a photo of a crosswalk,0.3369
+example_06,traffic,NN,a photo of a traffic,0.364
+example_06,light,NN,a photo of a light,0.0321
+example_06,sign,NN,a photo of a sign,0.0121
+example_06,enforcement,NN,a photo of a enforcement,0.2047
+example_06,right,NN,a photo of a right,0.2538
+example_06,environment,NN,a photo of a environment,0.1503
+example_06,mix,NN,a photo of a mix,0.0899
+example_06,urban,NN,a photo of a urban,0.2344
+example_06,elements,NNS,a photo of elements,0.1355
+example_06,trees,NNS,a photo of trees,0.2446
+example_06,sides,NNS,a photo of sides,0.0319
+example_06,road,NN,a photo of a road,0.485
+example_06,shadows,NNS,a photo of shadows,0.2605
+example_06,pavement,NN,a photo of a pavement,0.4237
+example_06,left,NN,a photo of a left,0.3248
+example_06,building,NN,a photo of a building,0.028
+example_06,stands,NNS,a photo of stands,0.0287
+example_06,fence,NN,a photo of a fence,0.1112
+example_06,bridge,NN,a photo of a bridge,0.0532
+example_06,railings,NNS,a photo of railings,0.0691
+example_06,spans,NNS,a photo of spans,0.0186
+example_06,road,NN,a photo of a road,0.485
+example_06,street,NN,a photo of a street,0.3837
+example_06,trees,NNS,a photo of trees,0.2446
+example_06,buildings,NNS,a photo of buildings,0.1046
+example_06,vehicles,NNS,a photo of vehicles,0.2668
+example_06,sedan,NN,a photo of a sedan,0.0497
+example_06,sedan,NN,a photo of a sedan,0.0497
+example_06,left,NN,a photo of a left,0.3248
+example_06,suv,NNP,a photo of a suv,0.0229
+example_06,lane,NN,a photo of a lane,0.738
+example_06,left,NN,a photo of a left,0.3248
+example_06,cars,NNS,a photo of cars,0.2772
+example_06,road,NN,a photo of a road,0.485
+example_06,truck,NN,a photo of a truck,0.011
+example_06,side,NN,a photo of a side,0.2614
+example_06,road,NN,a photo of a road,0.485
+example_06,vehicles,NNS,a photo of vehicles,0.2668
+example_06,side,NN,a photo of a side,0.2614
+example_06,road,NNP,a photo of a road,0.485
+example_06,signs,NNS,a photo of signs,0.0045
+example_06,limit,NN,a photo of a limit,0.113
+example_06,km/h,NNS,a photo of km/h,0.092
+example_06,km/h,NN,a photo of a km/h,0.1289
+example_06,sign,NN,a photo of a sign,0.0121
+example_06,bridge,NN,a photo of a bridge,0.0532
+example_06,signage,NN,a photo of a signage,0.0192
+example_06,school,NN,a photo of a school,0.0134
+example_06,zone,NN,a photo of a zone,0.1633
+example_06,movements,NNS,a photo of movements,0.1098
+example_06,hazards,NNS,a photo of hazards,0.0363
+example_07,proceeds,NNS,a photo of proceeds,0.0128
+example_07,city,NN,a photo of a city,0.1902
+example_07,street,NN,a photo of a street,0.4526
+example_07,sky,NN,a photo of a sky,0.1706
+example_07,clouds,NNS,a photo of clouds,0.0837
+example_07,asphalt,NN,a photo of a asphalt,0.1528
+example_07,surface,NN,a photo of a surface,0.0941
+example_07,tire,NN,a photo of a tire,0.0022
+example_07,marks,NNS,a photo of marks,0.094
+example_07,road,NN,a photo of a road,0.579
+example_07,buildings,NNS,a photo of buildings,0.1762
+example_07,sides,NNS,a photo of sides,0.053
+example_07,structure,NN,a photo of a structure,0.0783
+example_07,glass,NN,a photo of a glass,0.0176
+example_07,panels,NNS,a photo of panels,0.0259
+example_07,right,NN,a photo of a right,0.3303
+example_07,mix,NN,a photo of a mix,0.1023
+example_07,storefronts,NNS,a photo of storefronts,0.0292
+example_07,awnings,NNS,a photo of awnings,0.0123
+example_07,signage,NN,a photo of a signage,0.0214
+example_07,left,NN,a photo of a left,0.4611
+example_07,trees,NNS,a photo of trees,0.0374
+example_07,greenery,NN,a photo of a greenery,0.0497
+example_07,roadside,NN,a photo of a roadside,0.4092
+example_07,distance,NN,a photo of a distance,0.3943
+example_07,vehicles,NNS,a photo of vehicles,0.1949
+example_07,suv,NNP,a photo of a suv,0.0097
+example_07,pickup,NN,a photo of a pickup,0.0423
+example_07,truck,NN,a photo of a truck,0.031
+example_07,cars,NNS,a photo of cars,0.2224
+example_07,side,NN,a photo of a side,0.3727
+example_07,road,NN,a photo of a road,0.579
+example_07,truck,NN,a photo of a truck,0.031
+example_07,lane,NN,a photo of a lane,0.7582
+example_07,merge,NN,a photo of a merge,0.4842
+example_07,road,NNP,a photo of a road,0.579
+example_07,signs,NNS,a photo of signs,0.0078
+example_07,sign,NN,a photo of a sign,0.0111
+example_07,”,NN,a photo of a ”,0.1208
+example_07,sign,NN,a photo of a sign,0.0111
+example_07,”,NNP,a photo of a ”,0.1208
+example_07,crosswalk,NN,a photo of a crosswalk,0.2266
+example_07,markings,NNS,a photo of markings,0.3597
+example_07,road,NN,a photo of a road,0.579
+example_07,surface,NN,a photo of a surface,0.0941
+example_07,events,NNS,a photo of events,0.0125
+example_07,hazards,NNS,a photo of hazards,0.021
+example_07,frames,NNS,a photo of frames,0.0176
+example_08,proceeds,NNS,a photo of proceeds,0.0174
+example_08,city,NN,a photo of a city,0.2112
+example_08,street,NN,a photo of a street,0.4848
+example_08,sky,NN,a photo of a sky,0.1677
+example_08,clouds,NNS,a photo of clouds,0.0354
+example_08,asphalt,NN,a photo of a asphalt,0.1174
+example_08,surface,NN,a photo of a surface,0.1184
+example_08,daylight,NN,a photo of a daylight,0.2161
+example_08,road,NN,a photo of a road,0.6124
+example_08,trees,NNS,a photo of trees,0.1465
+example_08,shadows,NNS,a photo of shadows,0.3122
+example_08,pavement,NN,a photo of a pavement,0.3399
+example_08,environment,NN,a photo of a environment,0.149
+example_08,mix,NN,a photo of a mix,0.1243
+example_08,buildings,NNS,a photo of buildings,0.1527
+example_08,taller,NN,a photo of a taller,0.0324
+example_08,structures,NNS,a photo of structures,0.0474
+example_08,distance,NN,a photo of a distance,0.3824
+example_08,pedestrians,NNS,a photo of pedestrians,0.0073
+example_08,sidewalks,NNS,a photo of sidewalks,0.3157
+example_08,crosswalks,NNS,a photo of crosswalks,0.6541
+example_08,vehicles,NNS,a photo of vehicles,0.095
+example_08,sides,NNS,a photo of sides,0.0357
+example_08,suv,NNP,a photo of a suv,0.013
+example_08,right,NN,a photo of a right,0.3362
+example_08,cars,NNS,a photo of cars,0.1098
+example_08,lanes,NNS,a photo of lanes,0.6064
+example_08,traffic,NN,a photo of a traffic,0.0465
+example_08,lights,NNS,a photo of lights,0.0364
+example_08,korean,NNP,a photo of a korean,0.0499
+example_08,directional,NN,a photo of a directional,0.3735
+example_08,signs,NNS,a photo of signs,0.004
+example_08,intersections,NNS,a photo of intersections,0.3958
+example_08,movement,NN,a photo of a movement,0.5061
+example_08,car,NN,a photo of a car,0.0655
+example_08,closer,NN,a photo of a closer,0.0901
+example_08,ego-vehicle,NN,a photo of a ego-vehicle,0.0056
+example_08,’,NNP,a photo of a ’,0.1526
+example_08,path,NN,a photo of a path,0.1337
+example_08,hazards,NNS,a photo of hazards,0.0251
+example_08,maneuvers,NNS,a photo of maneuvers,0.0692
+example_08,frames,NNS,a photo of frames,0.0236
+example_09,proceeds,NNS,a photo of proceeds,0.0085
+example_09,city,NN,a photo of a city,0.1921
+example_09,street,NN,a photo of a street,0.3095
+example_09,skies,NNS,a photo of skies,0.0037
+example_09,road,NN,a photo of a road,0.2763
+example_09,surface,NN,a photo of a surface,0.0617
+example_09,environment,NN,a photo of a environment,0.134
+example_09,buildings,NNS,a photo of buildings,0.1028
+example_09,storefronts,NNS,a photo of storefronts,0.0371
+example_09,trees,NNS,a photo of trees,0.0297
+example_09,shadows,NNS,a photo of shadows,0.0314
+example_09,pavement,NN,a photo of a pavement,0.1051
+example_09,vehicles,NNS,a photo of vehicles,0.2609
+example_09,sedan,NN,a photo of a sedan,0.0154
+example_09,lane,NN,a photo of a lane,0.4925
+example_09,merge,NN,a photo of a merge,0.2472
+example_09,sedan,NN,a photo of a sedan,0.0154
+example_09,lane,NN,a photo of a lane,0.4925
+example_09,position,NN,a photo of a position,0.1602
+example_09,side,NN,a photo of a side,0.2287
+example_09,road,NN,a photo of a road,0.2763
+example_09,sedan,NN,a photo of a sedan,0.0154
+example_09,bus,NN,a photo of a bus,0.0055
+example_09,stop,NN,a photo of a stop,0.0386
+example_09,shelter,NN,a photo of a shelter,0.0059
+example_09,crosswalk,NN,a photo of a crosswalk,0.0824
+example_09,stripes,NNS,a photo of stripes,0.0039
+example_09,pedestrians,NNS,a photo of pedestrians,0.0073
+example_09,sidewalks,NNS,a photo of sidewalks,0.0997
+example_09,sides,NNS,a photo of sides,0.0283
+example_09,street,NN,a photo of a street,0.3095
+example_09,crosswalk,NN,a photo of a crosswalk,0.0824
+example_09,traffic,NNP,a photo of a traffic,0.4442
+example_09,lights,NNS,a photo of lights,0.0032
+example_09,road,NN,a photo of a road,0.2763
+example_09,signs,NNS,a photo of signs,0.0019
+example_09,korean,NNP,a photo of a korean,0.0942
+example_09,format,NN,a photo of a format,0.232
+example_09,gantries,NNS,a photo of gantries,0.0242
+example_09,text,NN,a photo of a text,0.0438
+example_09,events,NNS,a photo of events,0.0088
+example_09,hazards,NNS,a photo of hazards,0.0126
+example_09,frames,NNS,a photo of frames,0.0097
+example_10,proceeds,NNS,a photo of proceeds,0.0067
+example_10,city,NN,a photo of a city,0.054
+example_10,street,NN,a photo of a street,0.3381
+example_10,surface,NN,a photo of a surface,0.0893
+example_10,sky,NN,a photo of a sky,0.1236
+example_10,road,NN,a photo of a road,0.551
+example_10,mature,NN,a photo of a mature,0.0232
+example_10,trees,NNS,a photo of trees,0.1152
+example_10,sides,NNS,a photo of sides,0.0409
+example_10,area,NN,a photo of a area,0.1405
+example_10,visible,NN,a photo of a visible,0.1041
+example_10,right,NN,a photo of a right,0.1788
+example_10,sidewalk,NN,a photo of a sidewalk,0.0262
+example_10,left,NN,a photo of a left,0.2938
+example_10,vehicles,NNS,a photo of vehicles,0.0875
+example_10,left,NN,a photo of a left,0.2938
+example_10,sedan,NN,a photo of a sedan,0.0037
+example_10,sedan,NN,a photo of a sedan,0.0037
+example_10,pass,NN,a photo of a pass,0.4849
+example_10,lane,NN,a photo of a lane,0.7979
+example_10,vehicle,NN,a photo of a vehicle,0.0747
+example_10,intersection,NN,a photo of a intersection,0.1113
+example_10,signs,NNS,a photo of signs,0.007
+example_10,경포로,NNP,a photo of a 경포로,0.0102
+example_10,”,NNP,a photo of a ”,0.0966
+example_10,“,NNP,a photo of a “,0.1908
+example_10,율곡로,NNP,a photo of a 율곡로,0.0264
+example_10,”,NN,a photo of a ”,0.0966
+example_10,arrows,NNS,a photo of arrows,0.0207
+example_10,roads,NNS,a photo of roads,0.4236
+example_10,road,NN,a photo of a road,0.551
+example_10,configuration,NN,a photo of a configuration,0.1295
+example_10,lane,NN,a photo of a lane,0.7979
+example_10,markings,NNS,a photo of markings,0.2135
+example_10,orange,NN,a photo of a orange,0.0008
+example_10,delineators,NNS,a photo of delineators,0.063
+example_10,bridge,NN,a photo of a bridge,0.0027
+example_10,distance,NN,a photo of a distance,0.349
+example_10,area,NN,a photo of a area,0.1405
+example_10,pedestrians,NNS,a photo of pedestrians,0.0044
+example_10,traffic,NN,a photo of a traffic,0.0454
+example_10,lights,NNS,a photo of lights,0.0124
+example_10,weather,NN,a photo of a weather,0.1927
+example_10,clouds,NNS,a photo of clouds,0.0156
+example_10,maneuvers,NNS,a photo of maneuvers,0.0876
+example_10,hazards,NNS,a photo of hazards,0.0137
+example_10,clip,NN,a photo of a clip,0.2952

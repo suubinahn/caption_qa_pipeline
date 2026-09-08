@@ -1,0 +1,43 @@
+# 영상 캡션 검수 파이프라인 - 의존성
+# (1단계 캡션 사실검증 + 최종 검색+검증 통합 파이프라인 공통)
+#
+# torch / torchvision 설치 안내:
+#   GPU(CUDA) 환경이라면 아래처럼 PyTorch 공식 인덱스에서 설치해야
+#   CUDA 가속이 포함된 wheel이 설치됩니다 (일반 PyPI 기본 인덱스는
+#   환경에 따라 CPU 전용 버전이 잡힐 수 있음):
+#
+#     pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#
+#   CPU만 있는 환경이라면 아래처럼 그냥 설치해도 됩니다(속도는 느림):
+#
+#     pip install torch torchvision
+#
+#   그 다음 이 파일의 나머지 패키지를 설치하세요:
+#
+#     pip install -r requirements.txt
+#
+# 주의: transformers 최신 버전은 torch>=2.6 이 아니면 특정 체크포인트를
+# pickle(.bin) 형식으로 로드하는 걸 보안상 막습니다. torch를 2.6 미만으로
+# 쓰는 경우 코드에서 `use_safetensors=True` 옵션으로 우회하고 있습니다
+# (src/clip_score.py 참고).
+
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.57.6
+safetensors==0.7.0
+
+# 이미지/영상 처리
+pillow==11.3.0
+numpy==2.0.2
+imageio==2.37.2
+imageio-ffmpeg==0.6.0   # 시스템에 ffmpeg가 없어도 영상을 디코딩할 수 있게 해주는 정적 ffmpeg 바이너리 제공
+av==15.1.0              # imageio의 영상 디코딩 백엔드(PyAV, ffmpeg 파이썬 바인딩)
+opencv-python-headless==5.0.0.93  # 옵티컬 플로우("정지" 판정, src/experiment_optical_flow_motion.py)에 필요 - 검색+검증 파이프라인의 필수 의존성
+
+# 데이터 처리 / 결과 표 출력
+pandas==2.3.3
+matplotlib==3.9.4   # 최종 리포트용 그래프 생성
+scipy==1.13.1        # 타임라인 일관성 평가(스피어만 상관계수)
+
+# 샘플 영상 다운로드용
+requests==2.32.5

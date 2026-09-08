@@ -1,0 +1,9 @@
+﻿id,margin_clip_raw,margin_clip_csls,margin_blip_itm,blip_correct_prob,blip_wrong_mean_prob
+cat_string_toy,0.133,0.271,0.6664,0.9999,0.3334
+cooking_thermometer,0.1052,0.207,0.6565,0.9999,0.3434
+van_driving,0.0881,0.1631,0.6712,0.9974,0.3262
+dog_park,0.0369,0.0783,0.0961,0.2029,0.1068
+horse_herd,0.0764,0.1397,-0.1054,0.1928,0.2981
+guitar_play,0.0617,0.1499,0.9687,0.9908,0.0221
+people_dancing,0.0755,0.1402,0.7171,0.9999,0.2828
+bicycle_ride,0.0214,0.0304,0.915,0.9293,0.0143

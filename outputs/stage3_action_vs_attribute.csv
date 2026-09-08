@@ -1,0 +1,9 @@
+﻿id,margin_action_raw,margin_attribute_raw,margin_action_csls,margin_attribute_csls,action이 더 어려움? (raw),action이 더 어려움? (csls)
+cat_string_toy,0.0172,0.1102,0.0295,0.2201,True,True
+cooking_thermometer,0.0449,0.0226,0.0913,0.0373,False,False
+van_driving,0.03,0.0846,0.0363,0.1475,True,True
+dog_park,0.0034,0.0045,0.0029,0.0183,True,True
+horse_herd,0.0318,0.0295,0.0463,0.0528,False,True
+guitar_play,0.0074,0.0287,0.0609,0.0521,True,False
+people_dancing,0.0284,0.0593,0.067,0.1055,True,True
+bicycle_ride,-0.0048,-0.013,-0.0161,-0.0346,False,False

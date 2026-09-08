@@ -1,0 +1,6 @@
+﻿video_id,type,old,new,changed_word,changed_score,total_words,suspect_count,suspect_ratio,caught_by_20pct_rule
+example_01,object,a yellow van is parked,a yellow bus is parked,bus,0.0192,42,6,0.1429,False
+example_02,object,a white van and a silver sedan,a white van and a silver hatchback,hatchback,0.0043,34,6,0.1765,False
+example_03,object,a silver SUV directly in front,a silver sedan directly in front,sedan,0.0182,37,4,0.1081,False
+example_04,object,a green bus travels ahead,a green truck travels ahead,truck,0.006,40,3,0.075,False
+example_05,object,a silver sedan and a truck,a silver sedan and a motorcycle,motorcycle,0.0025,36,4,0.1111,False

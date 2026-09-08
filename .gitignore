@@ -1,0 +1,19 @@
+# 파이썬 가상환경 (약 5.7GB) - README.md 설치 안내대로 각자 새로 만들 것
+.venv/
+__pycache__/
+*.pyc
+
+# 인덱스 캐시 - 클립 목록+caption.txt 지문(fingerprint) 기반 디스크 캐시.
+# 재계산 가능하고 로컬 경로에 묶여 있어 커밋 의미가 없음 (search_module.build_cached_index)
+outputs/.index_cache/
+
+# 데이터셋 매니페스트 - 로컬 마운트 경로가 그대로 들어있는 머신별 파일.
+# scan_dataset.py로 각자 새로 생성해야 함(README.md 참고) - 공유용 파일이 아님
+outputs/search_full_dataset.json
+outputs/search_sample_100.json
+
+# 1단계(레거시) 샘플 영상 (약 338MB) - 공개 데이터 재다운로드로 복구 가능,
+# 최종 검색+검증 파이프라인 실행에는 필요 없음
+data/
+
+.DS_Store

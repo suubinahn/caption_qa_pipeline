@@ -1,0 +1,121 @@
+﻿threshold,N,id,구분,suspect_count,suspect_words,결과
+기존,1,cat_string_toy,정답,3,"orange(0.042), string(0.036), toy(0.049)",REVIEW로 강등
+기존,1,cooking_thermometer,정답,0,,PASS 유지
+기존,1,van_driving,정답,3,"street(0.027), brick(0.026), building(0.011)",REVIEW로 강등
+기존,1,dog_park,정답,0,,PASS 유지
+기존,1,horse_herd,정답,0,,PASS 유지
+기존,1,guitar_play,정답,4,"guitar(0.006), indoors(0.022), front(0.037), audience(0.008)",REVIEW로 강등
+기존,1,people_dancing,정답,2,"clothing(0.043), outdoors(0.031)",REVIEW로 강등
+기존,1,bicycle_ride,정답,2,"shirt(0.008), bicycle(0.029)",REVIEW로 강등
+기존,1,cat_string_toy/행동 오류(잔다),오답,3,"orange(0.042), string(0.036), toy(0.049)",REVIEW로 잡힘
+기존,1,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),REVIEW로 잡힘
+기존,1,van_driving/행동 오류(주차됨),오답,3,"street(0.027), brick(0.026), building(0.011)",REVIEW로 잡힘
+기존,1,dog_park/객체 오류(고양이),오답,1,cats(0.018),REVIEW로 잡힘
+기존,2,cat_string_toy,정답,3,"orange(0.042), string(0.036), toy(0.049)",REVIEW로 강등
+기존,2,cooking_thermometer,정답,0,,PASS 유지
+기존,2,van_driving,정답,3,"street(0.027), brick(0.026), building(0.011)",REVIEW로 강등
+기존,2,dog_park,정답,0,,PASS 유지
+기존,2,horse_herd,정답,0,,PASS 유지
+기존,2,guitar_play,정답,4,"guitar(0.006), indoors(0.022), front(0.037), audience(0.008)",REVIEW로 강등
+기존,2,people_dancing,정답,2,"clothing(0.043), outdoors(0.031)",REVIEW로 강등
+기존,2,bicycle_ride,정답,2,"shirt(0.008), bicycle(0.029)",REVIEW로 강등
+기존,2,cat_string_toy/행동 오류(잔다),오답,3,"orange(0.042), string(0.036), toy(0.049)",REVIEW로 잡힘
+기존,2,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+기존,2,van_driving/행동 오류(주차됨),오답,3,"street(0.027), brick(0.026), building(0.011)",REVIEW로 잡힘
+기존,2,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+기존,3,cat_string_toy,정답,3,"orange(0.042), string(0.036), toy(0.049)",REVIEW로 강등
+기존,3,cooking_thermometer,정답,0,,PASS 유지
+기존,3,van_driving,정답,3,"street(0.027), brick(0.026), building(0.011)",REVIEW로 강등
+기존,3,dog_park,정답,0,,PASS 유지
+기존,3,horse_herd,정답,0,,PASS 유지
+기존,3,guitar_play,정답,4,"guitar(0.006), indoors(0.022), front(0.037), audience(0.008)",REVIEW로 강등
+기존,3,people_dancing,정답,2,"clothing(0.043), outdoors(0.031)",PASS 유지
+기존,3,bicycle_ride,정답,2,"shirt(0.008), bicycle(0.029)",PASS 유지
+기존,3,cat_string_toy/행동 오류(잔다),오답,3,"orange(0.042), string(0.036), toy(0.049)",REVIEW로 잡힘
+기존,3,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+기존,3,van_driving/행동 오류(주차됨),오답,3,"street(0.027), brick(0.026), building(0.011)",REVIEW로 잡힘
+기존,3,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+기존,4,cat_string_toy,정답,3,"orange(0.042), string(0.036), toy(0.049)",PASS 유지
+기존,4,cooking_thermometer,정답,0,,PASS 유지
+기존,4,van_driving,정답,3,"street(0.027), brick(0.026), building(0.011)",PASS 유지
+기존,4,dog_park,정답,0,,PASS 유지
+기존,4,horse_herd,정답,0,,PASS 유지
+기존,4,guitar_play,정답,4,"guitar(0.006), indoors(0.022), front(0.037), audience(0.008)",REVIEW로 강등
+기존,4,people_dancing,정답,2,"clothing(0.043), outdoors(0.031)",PASS 유지
+기존,4,bicycle_ride,정답,2,"shirt(0.008), bicycle(0.029)",PASS 유지
+기존,4,cat_string_toy/행동 오류(잔다),오답,3,"orange(0.042), string(0.036), toy(0.049)",PASS로 놓침
+기존,4,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+기존,4,van_driving/행동 오류(주차됨),오답,3,"street(0.027), brick(0.026), building(0.011)",PASS로 놓침
+기존,4,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+기존,5,cat_string_toy,정답,3,"orange(0.042), string(0.036), toy(0.049)",PASS 유지
+기존,5,cooking_thermometer,정답,0,,PASS 유지
+기존,5,van_driving,정답,3,"street(0.027), brick(0.026), building(0.011)",PASS 유지
+기존,5,dog_park,정답,0,,PASS 유지
+기존,5,horse_herd,정답,0,,PASS 유지
+기존,5,guitar_play,정답,4,"guitar(0.006), indoors(0.022), front(0.037), audience(0.008)",PASS 유지
+기존,5,people_dancing,정답,2,"clothing(0.043), outdoors(0.031)",PASS 유지
+기존,5,bicycle_ride,정답,2,"shirt(0.008), bicycle(0.029)",PASS 유지
+기존,5,cat_string_toy/행동 오류(잔다),오답,3,"orange(0.042), string(0.036), toy(0.049)",PASS로 놓침
+기존,5,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+기존,5,van_driving/행동 오류(주차됨),오답,3,"street(0.027), brick(0.026), building(0.011)",PASS로 놓침
+기존,5,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+재보정,1,cat_string_toy,정답,0,,PASS 유지
+재보정,1,cooking_thermometer,정답,0,,PASS 유지
+재보정,1,van_driving,정답,1,building(0.011),REVIEW로 강등
+재보정,1,dog_park,정답,0,,PASS 유지
+재보정,1,horse_herd,정답,0,,PASS 유지
+재보정,1,guitar_play,정답,2,"guitar(0.006), audience(0.008)",REVIEW로 강등
+재보정,1,people_dancing,정답,0,,PASS 유지
+재보정,1,bicycle_ride,정답,1,shirt(0.008),REVIEW로 강등
+재보정,1,cat_string_toy/행동 오류(잔다),오답,0,,PASS로 놓침
+재보정,1,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),REVIEW로 잡힘
+재보정,1,van_driving/행동 오류(주차됨),오답,1,building(0.011),REVIEW로 잡힘
+재보정,1,dog_park/객체 오류(고양이),오답,1,cats(0.018),REVIEW로 잡힘
+재보정,2,cat_string_toy,정답,0,,PASS 유지
+재보정,2,cooking_thermometer,정답,0,,PASS 유지
+재보정,2,van_driving,정답,1,building(0.011),PASS 유지
+재보정,2,dog_park,정답,0,,PASS 유지
+재보정,2,horse_herd,정답,0,,PASS 유지
+재보정,2,guitar_play,정답,2,"guitar(0.006), audience(0.008)",REVIEW로 강등
+재보정,2,people_dancing,정답,0,,PASS 유지
+재보정,2,bicycle_ride,정답,1,shirt(0.008),PASS 유지
+재보정,2,cat_string_toy/행동 오류(잔다),오답,0,,PASS로 놓침
+재보정,2,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+재보정,2,van_driving/행동 오류(주차됨),오답,1,building(0.011),PASS로 놓침
+재보정,2,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+재보정,3,cat_string_toy,정답,0,,PASS 유지
+재보정,3,cooking_thermometer,정답,0,,PASS 유지
+재보정,3,van_driving,정답,1,building(0.011),PASS 유지
+재보정,3,dog_park,정답,0,,PASS 유지
+재보정,3,horse_herd,정답,0,,PASS 유지
+재보정,3,guitar_play,정답,2,"guitar(0.006), audience(0.008)",PASS 유지
+재보정,3,people_dancing,정답,0,,PASS 유지
+재보정,3,bicycle_ride,정답,1,shirt(0.008),PASS 유지
+재보정,3,cat_string_toy/행동 오류(잔다),오답,0,,PASS로 놓침
+재보정,3,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+재보정,3,van_driving/행동 오류(주차됨),오답,1,building(0.011),PASS로 놓침
+재보정,3,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+재보정,4,cat_string_toy,정답,0,,PASS 유지
+재보정,4,cooking_thermometer,정답,0,,PASS 유지
+재보정,4,van_driving,정답,1,building(0.011),PASS 유지
+재보정,4,dog_park,정답,0,,PASS 유지
+재보정,4,horse_herd,정답,0,,PASS 유지
+재보정,4,guitar_play,정답,2,"guitar(0.006), audience(0.008)",PASS 유지
+재보정,4,people_dancing,정답,0,,PASS 유지
+재보정,4,bicycle_ride,정답,1,shirt(0.008),PASS 유지
+재보정,4,cat_string_toy/행동 오류(잔다),오답,0,,PASS로 놓침
+재보정,4,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+재보정,4,van_driving/행동 오류(주차됨),오답,1,building(0.011),PASS로 놓침
+재보정,4,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침
+재보정,5,cat_string_toy,정답,0,,PASS 유지
+재보정,5,cooking_thermometer,정답,0,,PASS 유지
+재보정,5,van_driving,정답,1,building(0.011),PASS 유지
+재보정,5,dog_park,정답,0,,PASS 유지
+재보정,5,horse_herd,정답,0,,PASS 유지
+재보정,5,guitar_play,정답,2,"guitar(0.006), audience(0.008)",PASS 유지
+재보정,5,people_dancing,정답,0,,PASS 유지
+재보정,5,bicycle_ride,정답,1,shirt(0.008),PASS 유지
+재보정,5,cat_string_toy/행동 오류(잔다),오답,0,,PASS로 놓침
+재보정,5,cooking_thermometer/객체 오류(치킨),오답,1,chicken(0.008),PASS로 놓침
+재보정,5,van_driving/행동 오류(주차됨),오답,1,building(0.011),PASS로 놓침
+재보정,5,dog_park/객체 오류(고양이),오답,1,cats(0.018),PASS로 놓침

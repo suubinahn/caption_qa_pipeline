@@ -1,0 +1,10 @@
+﻿query,n_total,overall_precision,n_verified,verified_precision,n_unverified,unverified_precision
+The vehicle is turning right.,15,0.26666666666666666,9,0.2222222222222222,6,0.3333333333333333
+The vehicle is turning left.,8,0.375,5,0.6,3,0.0
+The vehicle is stopped.,11,0.18181818181818182,6,0.0,5,0.4
+The car drives through a tunnel.,16,0.8125,15,0.8666666666666667,1,0.0
+The car crosses a bridge.,8,0.25,7,0.2857142857142857,1,0.0
+The scene is at night.,24,0.5833333333333334,24,0.5833333333333334,0,
+It is raining.,35,0.4857142857142857,31,0.5161290322580645,4,0.25
+It is snowing.,8,0.375,6,0.16666666666666666,2,1.0
+The vehicle drives on a multi-lane highway.,41,0.5853658536585366,30,0.4666666666666667,11,0.9090909090909091

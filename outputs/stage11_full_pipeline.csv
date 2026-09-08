@@ -1,0 +1,15 @@
+﻿id,구분,문장점수,문장판정,최종판정,스타일,객체검증,행동검증,의심 구성요소,결과,caption
+cat_string_toy,정답,0.9999,PASS,REVIEW,photo,O,-,"object:orange(SUSPECT, 0.042); object:cat(BORDERLINE, 0.104); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049)",X,"An orange cat is lying on a rug indoors, playing w"
+cooking_thermometer,정답,0.9999,PASS,PASS,cartoon,O,-,"object:burger(BORDERLINE, 0.053)",O,"In an animated kitchen scene, two adults and a chi"
+van_driving,정답,0.9973,PASS,REVIEW,photo,O,-,"object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011)",X,A green van is being driven down a street past a b
+dog_park,정답,0.9997,PASS,PASS,photo,O,-,-,O,Three dogs are playing together outdoors in a park
+horse_herd,정답,0.9916,PASS,PASS,photo,O,-,"object:group(BORDERLINE, 0.090); object:line(BORDERLINE, 0.142)",O,A small group of horses is running together across
+guitar_play,정답,0.9947,PASS,REVIEW,photo,O,-,"object:man(BORDERLINE, 0.061); object:guitar(SUSPECT, 0.006); object:indoors(SUSPECT, 0.022); object:front(SUSPECT, 0.037); object:audience(SUSPECT, 0.008)",X,A man is sitting and playing an acoustic guitar in
+people_dancing,정답,0.9999,PASS,REVIEW,photo,O,-,"object:clothing(SUSPECT, 0.043); object:outdoors(SUSPECT, 0.031)",X,A group of people in traditional red and blue clot
+bicycle_ride,정답,0.956,PASS,REVIEW,photo,O,-,"object:man(BORDERLINE, 0.069); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123)",X,A man in a red shirt is riding a bicycle down a ci
+cat_string_toy,"오답(행동, 7단계 놓침)",0.9996,PASS,REVIEW,photo,O,-,"object:orange(SUSPECT, 0.042); object:cat(BORDERLINE, 0.104); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049)",O,"An orange cat is sleeping on a rug indoors, ignori"
+cooking_thermometer,"오답(속성, 7단계 놓침)",0.9997,PASS,REVIEW,cartoon,O,-,"object:chicken(SUSPECT, 0.008)",O,"In an animated kitchen scene, two adults and a chi"
+van_driving,"오답(행동, 7단계 놓침)",0.9771,PASS,REVIEW,photo,O,-,"object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011)",O,A green van is parked and empty on a street beside
+dog_park,"오답(속성, 7단계 놓침)",0.9933,PASS,REVIEW,photo,O,-,"object:cats(SUSPECT, 0.018)",O,Three cats are playing together outdoors in a park
+horse_herd,오답(행동),0.8916,FAIL,FAIL,photo,O,O,"object:group(BORDERLINE, 0.090); object:line(BORDERLINE, 0.142); action:standing(BORDERLINE, 0.142)",O,A small group of horses is standing still and graz
+bicycle_ride,오답(행동),0.0573,FAIL,FAIL,photo,O,O,"object:man(BORDERLINE, 0.069); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123); action:standing(SUSPECT, 0.047)",O,A man in a red shirt is standing still next to a b

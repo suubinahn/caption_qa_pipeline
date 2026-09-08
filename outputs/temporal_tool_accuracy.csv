@@ -1,0 +1,12 @@
+﻿idx,sentence,human_gt,blip_pick,diff
+1,The ego-vehicle maintains a steady speed as it approaches an,8,8,0
+2,The vehicle is approaching an intersection where a few cars ,0,3,3
+7,The vehicle approaches an intersection where a police car is,8,9,1
+9,"As the vehicle approaches a tunnel entrance, the road become",5,5,0
+10,"The ego-vehicle is initially stopped at a crosswalk, with a ",0,2,2
+11,"As the vehicle proceeds, it approaches an intersection with ",3,7,4
+17,"As the vehicle progresses, it approaches an intersection whe",8,9,1
+18,"The vehicle continues to move forward, passing under the tun",8,9,1
+19,A blue bus is seen approaching from the opposite direction a,7,8,1
+26,"A black car is seen approaching the intersection ahead, whil",7,6,1
+30,"The underpass entrance is visible, and the vehicle enters a ",3,3,0

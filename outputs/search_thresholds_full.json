@@ -1,0 +1,101 @@
+{
+  "The vehicle is turning right.": {
+    "threshold": 0.07221895456314087,
+    "field": "motion",
+    "value": "turning right",
+    "n_pos_calib": 5,
+    "n_pos_holdout": 10,
+    "calib_f1": 0.15384615384615385,
+    "holdout_accuracy": 0.9702702702702702,
+    "holdout_precision": 0.3333333333333333,
+    "holdout_recall": 0.1
+  },
+  "The vehicle is turning left.": {
+    "threshold": 0.06823307275772095,
+    "field": "motion",
+    "value": "turning left",
+    "n_pos_calib": 4,
+    "n_pos_holdout": 4,
+    "calib_f1": 0.5,
+    "holdout_accuracy": 0.9837837837837838,
+    "holdout_precision": 0.0,
+    "holdout_recall": 0.0
+  },
+  "The vehicle is stopped.": {
+    "threshold": 0.023570597171783447,
+    "field": "motion",
+    "value": "stop",
+    "n_pos_calib": 62,
+    "n_pos_holdout": 64,
+    "calib_f1": 0.339622641509434,
+    "holdout_accuracy": 0.7432432432432432,
+    "holdout_precision": 0.19607843137254902,
+    "holdout_recall": 0.15625
+  },
+  "The car drives through a tunnel.": {
+    "threshold": 0.07442134618759155,
+    "field": "road_context",
+    "value": "tunnel",
+    "n_pos_calib": 8,
+    "n_pos_holdout": 8,
+    "calib_f1": 0.7999999999999999,
+    "holdout_accuracy": 0.9864864864864865,
+    "holdout_precision": 1.0,
+    "holdout_recall": 0.375
+  },
+  "The car crosses a bridge.": {
+    "threshold": 0.10380211472511292,
+    "field": "road_context",
+    "value": "bridge",
+    "n_pos_calib": 4,
+    "n_pos_holdout": 4,
+    "calib_f1": 0.4,
+    "holdout_accuracy": 0.9891891891891892,
+    "holdout_precision": NaN,
+    "holdout_recall": 0.0
+  },
+  "The scene is at night.": {
+    "threshold": -0.001566857099533081,
+    "field": "time_of_day",
+    "value": "nighttime",
+    "n_pos_calib": 12,
+    "n_pos_holdout": 12,
+    "calib_f1": 0.39999999999999997,
+    "holdout_accuracy": 0.8837837837837837,
+    "holdout_precision": 0.05714285714285714,
+    "holdout_recall": 0.16666666666666666
+  },
+  "It is raining.": {
+    "threshold": -0.07989132404327393,
+    "field": "weather",
+    "value": "rainy",
+    "n_pos_calib": 120,
+    "n_pos_holdout": 120,
+    "calib_f1": 0.6234817813765182,
+    "holdout_accuracy": 0.7945945945945946,
+    "holdout_precision": 0.6833333333333333,
+    "holdout_recall": 0.6833333333333333
+  },
+  "It is snowing.": {
+    "threshold": 0.06560099124908447,
+    "field": "weather",
+    "value": "snowy",
+    "n_pos_calib": 4,
+    "n_pos_holdout": 4,
+    "calib_f1": 0.46153846153846156,
+    "holdout_accuracy": 0.9675675675675676,
+    "holdout_precision": 0.0,
+    "holdout_recall": 0.0
+  },
+  "The vehicle drives on a multi-lane highway.": {
+    "threshold": 0.05353108048439026,
+    "field": "road_type",
+    "value": "multi-lane highway",
+    "n_pos_calib": 108,
+    "n_pos_holdout": 108,
+    "calib_f1": 0.5485232067510548,
+    "holdout_accuracy": 0.6648648648648648,
+    "holdout_precision": 0.43333333333333335,
+    "holdout_recall": 0.48148148148148145
+  }
+}

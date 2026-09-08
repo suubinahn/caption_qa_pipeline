@@ -1,0 +1,81 @@
+﻿id,group,구분,문장점수,문장판정,최종판정,의심 구성요소,결과
+cat_string_toy,기존8,정답,0.9999,PASS,PASS,"object:orange(SUSPECT, 0.042); object:cat(BORDERLINE, 0.104); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049); action:playing(BORDERLINE, 0.131); action:hanging(BORDERLINE, 0.097)",O
+cat_string_toy,기존8,오답(재활용),0.0,FAIL,FAIL,"object:group(SUSPECT, 0.010); object:horses(SUSPECT, 0.000); object:pasture(SUSPECT, 0.000); action:running(SUSPECT, 0.038)",O
+cat_string_toy,기존8,오답(행동),0.9996,PASS,PASS,"object:orange(SUSPECT, 0.042); object:cat(BORDERLINE, 0.104); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049); action:sleeping(BORDERLINE, 0.120); action:hanging(BORDERLINE, 0.097)",X
+cat_string_toy,기존8,오답(속성),0.0147,FAIL,FAIL,"object:dog(SUSPECT, 0.020); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049); action:playing(BORDERLINE, 0.131); action:hanging(BORDERLINE, 0.097)",O
+cooking_thermometer,기존8,정답,0.9999,PASS,PASS,"object:burger(BORDERLINE, 0.053)",O
+cooking_thermometer,기존8,오답(재활용),0.0,FAIL,FAIL,"object:guitar(SUSPECT, 0.001); object:audience(SUSPECT, 0.019)",O
+cooking_thermometer,기존8,오답(행동),0.0282,FAIL,FAIL,"object:wash(BORDERLINE, 0.117); object:sink(SUSPECT, 0.006)",O
+cooking_thermometer,기존8,오답(속성),0.9997,PASS,REVIEW,"object:chicken(SUSPECT, 0.008)",O
+van_driving,기존8,정답,0.9973,PASS,REVIEW,"object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011); action:being(BORDERLINE, 0.059)",X
+van_driving,기존8,오답(재활용),0.0001,FAIL,FAIL,"object:group(SUSPECT, 0.017); object:people(SUSPECT, 0.011); object:clothing(SUSPECT, 0.021); object:outdoors(BORDERLINE, 0.111); action:singing(SUSPECT, 0.019)",O
+van_driving,기존8,오답(행동),0.9771,PASS,REVIEW,"object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011)",O
+van_driving,기존8,오답(속성),0.0005,FAIL,FAIL,"object:sports(SUSPECT, 0.002); object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011); action:being(BORDERLINE, 0.059)",O
+dog_park,기존8,정답,0.9997,PASS,PASS,-,O
+dog_park,기존8,오답(재활용),0.0001,FAIL,FAIL,"object:man(BORDERLINE, 0.074); object:shirt(SUSPECT, 0.002); object:bicycle(SUSPECT, 0.012); object:city(SUSPECT, 0.006); object:street(SUSPECT, 0.008); action:riding(SUSPECT, 0.034)",O
+dog_park,기존8,오답(행동),0.9101,REVIEW,REVIEW,"action:sleeping(SUSPECT, 0.009)",O
+dog_park,기존8,오답(속성),0.9933,PASS,REVIEW,"object:cats(SUSPECT, 0.018)",O
+horse_herd,기존8,정답,0.9916,PASS,PASS,"object:group(BORDERLINE, 0.090); object:line(BORDERLINE, 0.142)",O
+horse_herd,기존8,오답(재활용),0.0,FAIL,FAIL,"object:orange(SUSPECT, 0.001); object:cat(SUSPECT, 0.002); object:indoors(SUSPECT, 0.003); object:string(BORDERLINE, 0.067); object:toy(SUSPECT, 0.015); action:lying(SUSPECT, 0.018); action:playing(BORDERLINE, 0.123); action:hanging(BORDERLINE, 0.066)",O
+horse_herd,기존8,오답(행동),0.8916,FAIL,FAIL,"object:group(BORDERLINE, 0.090); object:line(BORDERLINE, 0.142); action:standing(BORDERLINE, 0.142)",O
+horse_herd,기존8,오답(속성),0.5597,FAIL,FAIL,"object:group(BORDERLINE, 0.090); object:cows(SUSPECT, 0.031); object:line(BORDERLINE, 0.142)",O
+guitar_play,기존8,정답,0.9947,PASS,REVIEW,"object:man(BORDERLINE, 0.061); object:guitar(SUSPECT, 0.006); object:indoors(SUSPECT, 0.022); object:front(SUSPECT, 0.037); object:audience(SUSPECT, 0.008); action:sitting(BORDERLINE, 0.070)",X
+guitar_play,기존8,오답(재활용),0.0,FAIL,FAIL,"object:van(SUSPECT, 0.001); object:street(SUSPECT, 0.002); object:brick(SUSPECT, 0.005); object:building(SUSPECT, 0.002); action:being(SUSPECT, 0.021)",O
+guitar_play,기존8,오답(행동),0.0932,FAIL,FAIL,"object:man(BORDERLINE, 0.061); object:instrument(SUSPECT, 0.011); object:indoors(SUSPECT, 0.022); object:front(SUSPECT, 0.037); object:audience(SUSPECT, 0.008); action:standing(BORDERLINE, 0.060)",O
+guitar_play,기존8,오답(속성),0.0021,FAIL,FAIL,"object:woman(SUSPECT, 0.034); object:violin(SUSPECT, 0.000); object:indoors(SUSPECT, 0.022); object:front(SUSPECT, 0.037); object:audience(SUSPECT, 0.008); action:sitting(BORDERLINE, 0.070)",O
+people_dancing,기존8,정답,0.9999,PASS,PASS,"object:clothing(SUSPECT, 0.043); object:outdoors(SUSPECT, 0.031)",O
+people_dancing,기존8,오답(재활용),0.0,FAIL,FAIL,"object:dogs(SUSPECT, 0.003); object:outdoors(SUSPECT, 0.031); object:park(SUSPECT, 0.005); object:bare(BORDERLINE, 0.083); object:trees(SUSPECT, 0.021); object:leaves(SUSPECT, 0.003); object:ground(SUSPECT, 0.033); action:playing(BORDERLINE, 0.066)",O
+people_dancing,기존8,오답(행동),0.8181,FAIL,FAIL,"object:clothing(SUSPECT, 0.043); object:outdoors(SUSPECT, 0.031); action:sitting(BORDERLINE, 0.070)",O
+people_dancing,기존8,오답(속성),0.5573,FAIL,FAIL,"object:business(SUSPECT, 0.010); object:suits(SUSPECT, 0.005); object:outdoors(SUSPECT, 0.031)",O
+bicycle_ride,기존8,정답,0.956,PASS,REVIEW,"object:man(BORDERLINE, 0.069); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123)",X
+bicycle_ride,기존8,오답(재활용),0.0,FAIL,FAIL,"object:kitchen(SUSPECT, 0.001); object:adults(SUSPECT, 0.024); object:child(SUSPECT, 0.013); object:burger(SUSPECT, 0.008); object:food(SUSPECT, 0.004); object:thermometer(SUSPECT, 0.001); action:cooking(SUSPECT, 0.002)",O
+bicycle_ride,기존8,오답(행동),0.0573,FAIL,FAIL,"object:man(BORDERLINE, 0.069); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123); action:standing(SUSPECT, 0.047)",O
+bicycle_ride,기존8,오답(속성),0.0219,FAIL,FAIL,"object:woman(SUSPECT, 0.042); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123)",O
+reading_book,신규12,정답,0.9986,PASS,REVIEW,"object:woman(SUSPECT, 0.020); object:picture(SUSPECT, 0.039); object:group(BORDERLINE, 0.118); object:indoors(SUSPECT, 0.047)",X
+reading_book,신규12,오답(재활용),0.0,FAIL,FAIL,"object:commuter(SUSPECT, 0.001); object:train(SUSPECT, 0.000); object:arrives(SUSPECT, 0.011); object:station(SUSPECT, 0.003); object:platform(SUSPECT, 0.018)",O
+reading_book,신규12,오답(행동),0.9263,REVIEW,REVIEW,"object:woman(SUSPECT, 0.020); object:picture(SUSPECT, 0.039); object:indoors(SUSPECT, 0.047)",O
+reading_book,신규12,오답(속성),0.0294,FAIL,FAIL,"object:man(SUSPECT, 0.014); object:picture(SUSPECT, 0.039); object:group(BORDERLINE, 0.118); object:indoors(SUSPECT, 0.047)",O
+soccer_kick,신규12,정답,0.9898,PASS,PASS,"object:view(SUSPECT, 0.036); object:people(BORDERLINE, 0.093); object:soccer(BORDERLINE, 0.096); action:playing(BORDERLINE, 0.093)",O
+soccer_kick,신규12,오답(재활용),0.0003,FAIL,FAIL,"object:children(SUSPECT, 0.007); object:dirt(BORDERLINE, 0.083); object:buildings(SUSPECT, 0.004)",O
+soccer_kick,신규12,오답(행동),0.9978,PASS,PASS,"object:view(SUSPECT, 0.036); object:people(BORDERLINE, 0.093); action:standing(SUSPECT, 0.039)",X
+soccer_kick,신규12,오답(속성),0.9925,PASS,REVIEW,"object:view(SUSPECT, 0.036); object:people(BORDERLINE, 0.093); object:basketball(SUSPECT, 0.003); action:playing(BORDERLINE, 0.093)",O
+band_stage,신규12,정답,0.9945,PASS,PASS,"object:performs(BORDERLINE, 0.111)",O
+band_stage,신규12,오답(재활용),0.0,FAIL,FAIL,"object:flock(SUSPECT, 0.012); object:pelicans(SUSPECT, 0.000); object:flies(SUSPECT, 0.028); object:sky(SUSPECT, 0.038); object:palm(BORDERLINE, 0.078); object:trees(SUSPECT, 0.012)",O
+band_stage,신규12,오답(행동),0.997,PASS,PASS,"object:equipment(BORDERLINE, 0.133)",X
+band_stage,신규12,오답(속성),0.9935,PASS,PASS,"object:performs(BORDERLINE, 0.111)",X
+cat_wakeup,신규12,정답,0.9832,PASS,PASS,"object:nap(BORDERLINE, 0.114); action:opening(BORDERLINE, 0.066)",O
+cat_wakeup,신규12,오답(재활용),0.0,FAIL,FAIL,"object:aquarium(SUSPECT, 0.000); object:tank(SUSPECT, 0.027)",O
+cat_wakeup,신규12,오답(행동),0.9612,PASS,PASS,"action:closing(BORDERLINE, 0.087)",X
+cat_wakeup,신규12,오답(속성),0.0289,FAIL,FAIL,"object:dog(SUSPECT, 0.006); object:nap(BORDERLINE, 0.114); action:opening(BORDERLINE, 0.066)",O
+train_arriving,신규12,정답,0.4352,FAIL,FAIL,"object:arrives(BORDERLINE, 0.051)",X
+train_arriving,신규12,오답(재활용),0.0,FAIL,FAIL,"object:person(BORDERLINE, 0.065); object:hands(SUSPECT, 0.003); object:pot(SUSPECT, 0.040); object:soup(SUSPECT, 0.001); object:peppers(SUSPECT, 0.000); object:stove(SUSPECT, 0.000)",O
+train_arriving,신규12,오답(행동),0.7439,FAIL,FAIL,-,O
+train_arriving,신규12,오답(속성),0.0281,FAIL,FAIL,"object:freight(BORDERLINE, 0.130); object:arrives(BORDERLINE, 0.051)",O
+children_playground,신규12,정답,0.9974,PASS,PASS,"object:children(SUSPECT, 0.029); object:buildings(BORDERLINE, 0.058)",O
+children_playground,신규12,오답(재활용),0.0001,FAIL,FAIL,"object:child(SUSPECT, 0.023); object:stool(SUSPECT, 0.005); object:washes(SUSPECT, 0.031); object:something(BORDERLINE, 0.094); object:kitchen(SUSPECT, 0.001); object:sink(SUSPECT, 0.001)",O
+children_playground,신규12,오답(행동),0.9761,PASS,PASS,"object:children(SUSPECT, 0.029); object:buildings(BORDERLINE, 0.058)",X
+children_playground,신규12,오답(속성),0.9502,REVIEW,REVIEW,"object:adults(SUSPECT, 0.017); object:buildings(BORDERLINE, 0.058)",O
+pelican_flying,신규12,정답,0.9987,PASS,PASS,"object:palm(SUSPECT, 0.026)",O
+pelican_flying,신규12,오답(재활용),0.0,FAIL,FAIL,"object:view(BORDERLINE, 0.146); object:person(SUSPECT, 0.001); object:path(SUSPECT, 0.007); action:running(SUSPECT, 0.022)",O
+pelican_flying,신규12,오답(행동),0.7534,FAIL,FAIL,"object:perches(BORDERLINE, 0.065); object:palm(SUSPECT, 0.026)",O
+pelican_flying,신규12,오답(속성),0.9741,PASS,PASS,"object:seagulls(BORDERLINE, 0.112); object:palm(SUSPECT, 0.026)",X
+jellyfish_aquarium,신규12,정답,0.9996,PASS,PASS,-,O
+jellyfish_aquarium,신규12,오답(재활용),0.0002,FAIL,FAIL,"object:man(SUSPECT, 0.006); object:hat(SUSPECT, 0.002); object:violin(SUSPECT, 0.000); object:outdoors(BORDERLINE, 0.062); action:wearing(SUSPECT, 0.007)",O
+jellyfish_aquarium,신규12,오답(행동),0.998,PASS,PASS,"object:dart(BORDERLINE, 0.065)",X
+jellyfish_aquarium,신규12,오답(속성),0.7412,FAIL,FAIL,-,O
+chef_cooking,신규12,정답,0.9995,PASS,REVIEW,"object:person(BORDERLINE, 0.096); object:soup(BORDERLINE, 0.125); object:peppers(SUSPECT, 0.001); object:stove(SUSPECT, 0.005)",X
+chef_cooking,신규12,오답(재활용),0.0,FAIL,FAIL,"object:woman(SUSPECT, 0.036); object:book(SUSPECT, 0.012); object:aloud(BORDERLINE, 0.098); object:group(SUSPECT, 0.007); object:children(SUSPECT, 0.011); object:indoors(BORDERLINE, 0.090)",O
+chef_cooking,신규12,오답(행동),0.9888,PASS,REVIEW,"object:person(BORDERLINE, 0.096); object:soup(BORDERLINE, 0.125); object:bowl(BORDERLINE, 0.051); object:stove(SUSPECT, 0.005)",O
+chef_cooking,신규12,오답(속성),0.9952,PASS,REVIEW,"object:person(BORDERLINE, 0.096); object:soup(BORDERLINE, 0.125); object:mushrooms(SUSPECT, 0.002); object:stove(SUSPECT, 0.005)",O
+washing_dishes,신규12,정답,0.9994,PASS,REVIEW,"object:stool(SUSPECT, 0.001); object:something(BORDERLINE, 0.091); object:kitchen(SUSPECT, 0.043); object:sink(SUSPECT, 0.013)",X
+washing_dishes,신규12,오답(재활용),0.0,FAIL,FAIL,"object:view(SUSPECT, 0.030); object:people(SUSPECT, 0.027); object:soccer(SUSPECT, 0.002); object:grass(SUSPECT, 0.007); object:field(SUSPECT, 0.002)",O
+washing_dishes,신규12,오답(행동),0.9981,PASS,REVIEW,"object:stool(SUSPECT, 0.001); object:dries(BORDERLINE, 0.076); object:hands(SUSPECT, 0.005); object:kitchen(SUSPECT, 0.043); object:sink(SUSPECT, 0.013)",O
+washing_dishes,신규12,오답(속성),0.9891,PASS,REVIEW,"object:adult(BORDERLINE, 0.150); object:stool(SUSPECT, 0.001); object:something(BORDERLINE, 0.091); object:kitchen(SUSPECT, 0.043); object:sink(SUSPECT, 0.013)",O
+running_form,신규12,정답,0.9912,PASS,REVIEW,"object:view(SUSPECT, 0.008); object:person(SUSPECT, 0.045); object:path(BORDERLINE, 0.062)",X
+running_form,신규12,오답(재활용),0.0,FAIL,FAIL,"object:band(SUSPECT, 0.001); object:performs(SUSPECT, 0.001); object:stage(SUSPECT, 0.003); object:night(SUSPECT, 0.003); object:lighting(SUSPECT, 0.003)",O
+running_form,신규12,오답(행동),0.973,PASS,REVIEW,"object:view(SUSPECT, 0.008); object:person(SUSPECT, 0.045); object:standing(SUSPECT, 0.015); object:path(BORDERLINE, 0.062)",O
+running_form,신규12,오답(속성),0.9181,REVIEW,REVIEW,"object:view(SUSPECT, 0.008); object:person(SUSPECT, 0.045); object:path(BORDERLINE, 0.062); object:shoes(SUSPECT, 0.025)",O
+violin_solo,신규12,정답,0.9828,PASS,REVIEW,"object:man(BORDERLINE, 0.056); object:hat(SUSPECT, 0.001); object:violin(SUSPECT, 0.010); object:outdoors(SUSPECT, 0.028); action:wearing(SUSPECT, 0.036)",X
+violin_solo,신규12,오답(재활용),0.0,FAIL,FAIL,"object:close-up(SUSPECT, 0.001); object:cat(SUSPECT, 0.000); object:eyes(SUSPECT, 0.001); object:nap(SUSPECT, 0.001); action:opening(SUSPECT, 0.015)",O
+violin_solo,신규12,오답(행동),0.9827,PASS,REVIEW,"object:man(BORDERLINE, 0.056); object:hat(SUSPECT, 0.001); object:violin(SUSPECT, 0.010); object:outdoors(SUSPECT, 0.028); action:wearing(SUSPECT, 0.036); action:playing(BORDERLINE, 0.070)",O
+violin_solo,신규12,오답(속성),0.1205,FAIL,FAIL,"object:man(BORDERLINE, 0.056); object:hat(SUSPECT, 0.001); object:guitar(SUSPECT, 0.001); object:outdoors(SUSPECT, 0.028); action:wearing(SUSPECT, 0.036)",O

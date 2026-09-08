@@ -1,0 +1,10 @@
+﻿query,field,value,n_positive,n_total,precision_at_k,top10_hits
+The vehicle is turning right.,motion,turning right,15,100,0.267,3
+The vehicle is turning left.,motion,turning left,8,100,0.5,4
+The vehicle is stopped.,motion,stop,11,100,0.273,3
+The car drives through a tunnel.,road_context,tunnel,16,100,0.75,10
+The car crosses a bridge.,road_context,bridge,8,100,0.5,4
+The scene is at night.,time_of_day,nighttime,24,100,1.0,10
+It is raining.,weather,rainy,35,100,0.629,7
+It is snowing.,weather,snowy,8,100,0.625,5
+The vehicle drives on a multi-lane highway.,road_type,multi-lane highway,41,100,0.195,1

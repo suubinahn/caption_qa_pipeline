@@ -1,0 +1,33 @@
+﻿id,구분,score,verdict,기대값,일치?,caption
+cat_string_toy,정답,0.9999,PASS,PASS,O,"An orange cat is lying on a rug indoors, playing with a"
+cat_string_toy,오답(재활용),0.0,FAIL,FAIL,O,A group of horses is running together across a green pa
+cat_string_toy,오답(행동변경),0.9996,PASS,FAIL,X,"An orange cat is sleeping on a rug indoors, ignoring a "
+cat_string_toy,오답(속성변경),0.0147,FAIL,FAIL,O,"A black dog is lying on a rug indoors, playing with a h"
+cooking_thermometer,정답,0.9999,PASS,PASS,O,"In an animated kitchen scene, two adults and a child ch"
+cooking_thermometer,오답(재활용),0.0,FAIL,FAIL,O,A man is sitting and playing an acoustic guitar indoors
+cooking_thermometer,오답(행동변경),0.0282,FAIL,FAIL,O,"In an animated kitchen scene, two adults and a child wa"
+cooking_thermometer,오답(속성변경),0.9997,PASS,FAIL,X,"In an animated kitchen scene, two adults and a child ch"
+van_driving,정답,0.9973,PASS,PASS,O,A green van is being driven down a street past a brick 
+van_driving,오답(재활용),0.0001,FAIL,FAIL,O,A group of people in traditional clothing are gathered 
+van_driving,오답(행동변경),0.9771,PASS,FAIL,X,A green van is parked and empty on a street beside a br
+van_driving,오답(속성변경),0.0005,FAIL,FAIL,O,A red sports car is being driven down a street past a b
+dog_park,정답,0.9997,PASS,PASS,O,Three dogs are playing together outdoors in a park with
+dog_park,오답(재활용),0.0001,FAIL,FAIL,O,A man in a red shirt is riding a bicycle down a city st
+dog_park,오답(행동변경),0.9101,REVIEW,FAIL,REVIEW,Three dogs are sleeping together outdoors in a park wit
+dog_park,오답(속성변경),0.9933,PASS,FAIL,X,Three cats are playing together outdoors in a park with
+horse_herd,정답,0.9916,PASS,PASS,O,A small group of horses is running together across a gr
+horse_herd,오답(재활용),0.0,FAIL,FAIL,O,"An orange cat is lying on a rug indoors, playing with a"
+horse_herd,오답(행동변경),0.8916,FAIL,FAIL,O,A small group of horses is standing still and grazing q
+horse_herd,오답(속성변경),0.5597,FAIL,FAIL,O,A small group of cows is running together across a gree
+guitar_play,정답,0.9947,PASS,PASS,O,A man is sitting and playing an acoustic guitar indoors
+guitar_play,오답(재활용),0.0,FAIL,FAIL,O,A green van is being driven down a street past a brick 
+guitar_play,오답(행동변경),0.0932,FAIL,FAIL,O,A man is standing and singing without any instrument in
+guitar_play,오답(속성변경),0.0021,FAIL,FAIL,O,A woman is sitting and playing a violin indoors in fron
+people_dancing,정답,0.9999,PASS,PASS,O,A group of people in traditional red and blue clothing 
+people_dancing,오답(재활용),0.0,FAIL,FAIL,O,Three dogs are playing together outdoors in a park with
+people_dancing,오답(행동변경),0.8181,FAIL,FAIL,O,A group of people in traditional red and blue clothing 
+people_dancing,오답(속성변경),0.5573,FAIL,FAIL,O,A group of people in plain black business suits are gat
+bicycle_ride,정답,0.956,PASS,PASS,O,A man in a red shirt is riding a bicycle down a city st
+bicycle_ride,오답(재활용),0.0,FAIL,FAIL,O,"In an animated kitchen scene, two adults and a child ch"
+bicycle_ride,오답(행동변경),0.0573,FAIL,FAIL,O,A man in a red shirt is standing still next to a bicycl
+bicycle_ride,오답(속성변경),0.0219,FAIL,FAIL,O,A woman in a blue shirt is riding a bicycle down a city

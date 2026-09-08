@@ -1,0 +1,15 @@
+﻿id,구분,문장점수,문장판정,최종판정,의심 구성요소,결과
+cat_string_toy,정답,0.9999,PASS,PASS,"object:orange(SUSPECT, 0.042); object:cat(BORDERLINE, 0.104); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049); action:playing(BORDERLINE, 0.131); action:hanging(BORDERLINE, 0.097)",O
+cooking_thermometer,정답,0.9999,PASS,PASS,"object:burger(BORDERLINE, 0.053)",O
+van_driving,정답,0.9973,PASS,REVIEW,"object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011); action:being(BORDERLINE, 0.059)",X
+dog_park,정답,0.9997,PASS,PASS,-,O
+horse_herd,정답,0.9916,PASS,PASS,"object:group(BORDERLINE, 0.090); object:line(BORDERLINE, 0.142)",O
+guitar_play,정답,0.9947,PASS,REVIEW,"object:man(BORDERLINE, 0.061); object:guitar(SUSPECT, 0.006); object:indoors(SUSPECT, 0.022); object:front(SUSPECT, 0.037); object:audience(SUSPECT, 0.008); action:sitting(BORDERLINE, 0.070)",X
+people_dancing,정답,0.9999,PASS,PASS,"object:clothing(SUSPECT, 0.043); object:outdoors(SUSPECT, 0.031)",O
+bicycle_ride,정답,0.956,PASS,REVIEW,"object:man(BORDERLINE, 0.069); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123)",X
+cat_string_toy,"오답(행동, 잔다)",0.9996,PASS,PASS,"object:orange(SUSPECT, 0.042); object:cat(BORDERLINE, 0.104); object:string(SUSPECT, 0.036); object:toy(SUSPECT, 0.049); action:sleeping(BORDERLINE, 0.120); action:hanging(BORDERLINE, 0.097)",X
+cooking_thermometer,"오답(속성, 치킨)",0.9997,PASS,REVIEW,"object:chicken(SUSPECT, 0.008)",O
+van_driving,"오답(행동, 주차됨)",0.9771,PASS,REVIEW,"object:street(SUSPECT, 0.027); object:brick(SUSPECT, 0.026); object:building(SUSPECT, 0.011)",O
+dog_park,"오답(속성, 고양이)",0.9933,PASS,REVIEW,"object:cats(SUSPECT, 0.018)",O
+horse_herd,오답(행동),0.8916,FAIL,FAIL,"object:group(BORDERLINE, 0.090); object:line(BORDERLINE, 0.142); action:standing(BORDERLINE, 0.142)",O
+bicycle_ride,오답(행동),0.0573,FAIL,FAIL,"object:man(BORDERLINE, 0.069); object:shirt(SUSPECT, 0.008); object:bicycle(SUSPECT, 0.029); object:city(BORDERLINE, 0.123); action:standing(SUSPECT, 0.047)",O

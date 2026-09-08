@@ -1,0 +1,19 @@
+﻿query,source,n_positive,precision_at_k
+The vehicle is turning right.,caption_txt,15,0.2
+The vehicle is turning right.,sb_caption_2,15,0.133
+The vehicle is turning left.,caption_txt,8,0.25
+The vehicle is turning left.,sb_caption_2,8,0.0
+The vehicle is stopped.,caption_txt,11,0.091
+The vehicle is stopped.,sb_caption_2,11,0.091
+The car drives through a tunnel.,caption_txt,16,0.812
+The car drives through a tunnel.,sb_caption_2,16,0.5
+The car crosses a bridge.,caption_txt,8,0.125
+The car crosses a bridge.,sb_caption_2,8,0.125
+The scene is at night.,caption_txt,24,0.333
+The scene is at night.,sb_caption_2,24,0.125
+It is raining.,caption_txt,35,0.429
+It is raining.,sb_caption_2,35,0.314
+It is snowing.,caption_txt,8,0.25
+It is snowing.,sb_caption_2,8,0.375
+The vehicle drives on a multi-lane highway.,caption_txt,41,0.537
+The vehicle drives on a multi-lane highway.,sb_caption_2,41,0.415

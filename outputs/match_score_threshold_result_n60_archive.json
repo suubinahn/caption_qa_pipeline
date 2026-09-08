@@ -1,0 +1,34 @@
+{
+  "unified_threshold": 0.03773115575313568,
+  "unified_holdout": {
+    "accuracy": 0.7277777777777777,
+    "precision": 0.6564885496183206,
+    "recall": 0.9555555555555556
+  },
+  "field_thresholds": {
+    "motion": {
+      "threshold": 0.21276218444108963,
+      "holdout": {
+        "accuracy": 0.6333333333333333,
+        "precision": 0.6052631578947368,
+        "recall": 0.7666666666666667
+      }
+    },
+    "weather": {
+      "threshold": 0.010238866787403822,
+      "holdout": {
+        "accuracy": 0.7166666666666667,
+        "precision": 0.6382978723404256,
+        "recall": 1.0
+      }
+    },
+    "time_of_day": {
+      "threshold": 0.08421684801578522,
+      "holdout": {
+        "accuracy": 0.9666666666666667,
+        "precision": 0.9375,
+        "recall": 1.0
+      }
+    }
+  }
+}

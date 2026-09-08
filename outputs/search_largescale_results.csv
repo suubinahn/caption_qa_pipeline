@@ -1,0 +1,901 @@
+﻿query,clip_dir,score,is_positive,motion,road_context,weather,time_of_day
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.3814515173435211,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.07844249904155731,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.1999344378709793,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.1587536633014679,False,moving straight,tunnel,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.3921605050563812,False,turning left,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.3152129054069519,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.17029091715812683,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.3062323033809662,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.08207917958498001,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.17922158539295197,False,curved lane driving,intersection,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.42231670022010803,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.14626669883728027,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.12803037464618683,False,moving straight,intersection,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.8368649482727051,False,turning left,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.213359534740448,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.307409405708313,True,turning right,city street,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.2374250590801239,False,moving straight,bridge,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.08443804085254669,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.1627812534570694,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.14205002784729004,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.09001024067401886,False,curved lane driving,intersection,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.097135990858078,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.08197424560785294,False,stop,city street,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.10983876883983612,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.2796805500984192,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.4066852033138275,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.17195427417755127,False,moving straight,bridge,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.22810687124729156,False,moving straight,bridge,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.20922262966632843,False,moving straight,city street,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.24332363903522491,False,stop,intersection,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.276124507188797,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.33038386702537537,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.18406735360622406,False,moving straight,tunnel,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.34015092253685,False,turning left,roundabout,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.1555553376674652,False,moving straight,bridge,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.1675444394350052,False,moving straight,intersection,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.24523399770259857,False,moving straight,intersection,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.35048845410346985,False,turning left,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.15315861999988556,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.1743529886007309,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.08362676948308945,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.17253097891807556,False,stop,tunnel,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.35184451937675476,True,turning right,city street,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.06137892231345177,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.05347776412963867,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.06702267378568649,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.25456690788269043,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.2191731184720993,True,turning right,bridge,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.16196255385875702,False,moving straight,bridge,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.47077882289886475,False,turning left,city street,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.18851351737976074,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.4895384609699249,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.2262754589319229,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.08558984100818634,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.08868207782506943,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.30060458183288574,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.19330546259880066,False,moving straight,city street,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.11376143246889114,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.364267498254776,True,turning right,city street,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.19105000793933868,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.1113365963101387,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.09216726571321487,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.08243691921234131,False,stop,intersection,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.3163166642189026,False,turning left,roundabout,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.2372879832983017,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.5800793170928955,False,turning left,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.4799443185329437,False,turning left,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.23878657817840576,False,moving straight,bridge,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.1819879710674286,False,moving straight,city street,snowy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.12949980795383453,False,moving straight,tunnel,cloudy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.5657840371131897,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.23665329813957214,False,moving straight,bridge,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.08054515719413757,False,stop,intersection,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.1283034235239029,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.28182268142700195,True,turning right,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.05070045217871666,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.11360038816928864,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning right.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.18090614676475525,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.28224149346351624,False,moving straight,intersection,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.3893257975578308,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.19346322119235992,False,moving straight,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.3865284025669098,False,stop,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.39144107699394226,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.28551873564720154,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.3720179796218872,False,curved lane driving,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.1709957718849182,False,moving straight,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.0950499176979065,False,stop,intersection,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.26769566535949707,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.19180244207382202,False,moving straight,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.22325508296489716,False,moving straight,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.49714195728302,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.24827076494693756,False,stop,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.3542904257774353,False,stop,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.3135624825954437,False,curved lane driving,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.11893479526042938,False,stop,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.19878767430782318,False,moving straight,city street,rainy,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.49430665373802185,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.13044846057891846,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.28158050775527954,False,moving straight,city street,sunny,daytime
+The vehicle is turning right.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.3211299777030945,False,stop,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.42088577151298523,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.06890565156936646,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.1936437040567398,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.14758293330669403,False,moving straight,tunnel,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.3818594515323639,True,turning left,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.32048651576042175,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.14500649273395538,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.2930276393890381,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.06790252029895782,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.24704161286354065,False,curved lane driving,intersection,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.38986194133758545,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.17149953544139862,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.11761068552732468,False,moving straight,intersection,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.8503710627555847,True,turning left,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.217396542429924,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.30057859420776367,False,turning right,city street,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.23687034845352173,False,moving straight,bridge,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.08244311064481735,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.13859763741493225,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.12459497898817062,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.0829712525010109,False,curved lane driving,intersection,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.10533563047647476,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.07753177732229233,False,stop,city street,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.10717959702014923,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.2770616114139557,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.39110785722732544,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.18272185325622559,False,moving straight,bridge,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.2220093011856079,False,moving straight,bridge,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.18026424944400787,False,moving straight,city street,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.21386928856372833,False,stop,intersection,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.3055594265460968,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.32938018441200256,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.175338014960289,False,moving straight,tunnel,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.28388774394989014,True,turning left,roundabout,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.15392084419727325,False,moving straight,bridge,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.13514094054698944,False,moving straight,intersection,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.17674745619297028,False,moving straight,intersection,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.33314967155456543,True,turning left,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.20218896865844727,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.1595773994922638,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.07751704007387161,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.16539081931114197,False,stop,tunnel,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.33113476634025574,False,turning right,city street,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.055441856384277344,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.05294789373874664,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.05839044228196144,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.24303758144378662,False,moving straight,tunnel,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.23419500887393951,False,turning right,bridge,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.15677398443222046,False,moving straight,bridge,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.5066196918487549,True,turning left,city street,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.26262596249580383,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.5237460732460022,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.319930762052536,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.07580745965242386,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.07619239389896393,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.3090173006057739,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.1699845790863037,False,moving straight,city street,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.10480514913797379,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.38417676091194153,False,turning right,city street,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.16952981054782867,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.09564622491598129,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.07649223506450653,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.06952491402626038,False,stop,intersection,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.28737643361091614,True,turning left,roundabout,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.2296411097049713,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.5525381565093994,True,turning left,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.4471014738082886,True,turning left,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.26800966262817383,False,moving straight,bridge,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.18808309733867645,False,moving straight,city street,snowy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.1276083141565323,False,moving straight,tunnel,cloudy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.54643714427948,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.23997828364372253,False,moving straight,bridge,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.06953132152557373,False,stop,intersection,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.13090652227401733,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.2698644697666168,False,turning right,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.047655098140239716,False,curved lane driving,city street,rainy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.17539812624454498,False,moving straight,city street,cloudy,nighttime
+The vehicle is turning left.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.16985321044921875,False,moving straight,tunnel,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.28620511293411255,False,moving straight,intersection,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.3985280692577362,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.1946212649345398,False,moving straight,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.39759770035743713,False,stop,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.41414281725883484,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.27898359298706055,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.3347502648830414,False,curved lane driving,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.17458058893680573,False,moving straight,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.09309270977973938,False,stop,intersection,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.3234640061855316,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.20911455154418945,False,moving straight,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.21061013638973236,False,moving straight,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.579807460308075,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.2146415412425995,False,stop,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.30441170930862427,False,stop,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.32733407616615295,False,curved lane driving,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.10439562052488327,False,stop,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.19020040333271027,False,moving straight,city street,rainy,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.5315163135528564,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.12501965463161469,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.27715253829956055,False,moving straight,city street,sunny,daytime
+The vehicle is turning left.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.3219003677368164,False,stop,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.2645270526409149,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.09378248453140259,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.19416067004203796,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.1788741797208786,False,moving straight,tunnel,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.17358925938606262,False,turning left,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.2409602552652359,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.11986980587244034,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.29201197624206543,False,moving straight,tunnel,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.10295262187719345,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.11548351496458054,False,curved lane driving,intersection,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.1785980761051178,False,moving straight,tunnel,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.13298015296459198,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.14719140529632568,False,moving straight,intersection,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.25221431255340576,False,turning left,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.20151694118976593,False,moving straight,tunnel,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.20117193460464478,False,turning right,city street,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.1546318531036377,False,moving straight,bridge,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.11341038346290588,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.15555691719055176,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.1416151076555252,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.12384036928415298,False,curved lane driving,intersection,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.18029147386550903,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.1507401168346405,True,stop,city street,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.2948438823223114,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.1972661316394806,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.21803300082683563,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.1702677458524704,False,moving straight,bridge,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.20358431339263916,False,moving straight,bridge,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.15529386699199677,False,moving straight,city street,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.19980627298355103,True,stop,intersection,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.27499476075172424,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.20361053943634033,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.1881583034992218,False,moving straight,tunnel,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.21625235676765442,False,turning left,roundabout,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.1456964612007141,False,moving straight,bridge,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.11051230132579803,False,moving straight,intersection,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.09340458363294601,False,moving straight,intersection,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.15852868556976318,False,turning left,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.1584501564502716,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.19988960027694702,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.08943252265453339,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.2060832977294922,True,stop,tunnel,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.19140441715717316,False,turning right,city street,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.08907203376293182,False,curved lane driving,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.11990364640951157,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.10743871331214905,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.20762327313423157,False,moving straight,tunnel,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.201236292719841,False,turning right,bridge,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.19164219498634338,False,moving straight,bridge,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.2043108344078064,False,turning left,city street,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.10570729523897171,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.19481879472732544,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.1437959372997284,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.12698805332183838,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.09916893392801285,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.22990110516548157,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.14676716923713684,False,moving straight,city street,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.14208003878593445,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.28897538781166077,False,turning right,city street,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.262250155210495,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.1596274971961975,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.12836399674415588,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.1464695781469345,True,stop,intersection,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.18321673572063446,False,turning left,roundabout,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.1534724086523056,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.20656003057956696,False,turning left,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.24114735424518585,False,turning left,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.1668579876422882,False,moving straight,bridge,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.1651473343372345,False,moving straight,city street,snowy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.1594220995903015,False,moving straight,tunnel,cloudy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.24012893438339233,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.183406800031662,False,moving straight,bridge,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.1399172991514206,True,stop,intersection,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.13186727464199066,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.1806284338235855,False,turning right,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.07649397850036621,False,curved lane driving,city street,rainy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.19714704155921936,False,moving straight,city street,cloudy,nighttime
+The vehicle is stopped.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.1504872441291809,False,moving straight,tunnel,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.21598263084888458,False,moving straight,intersection,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.33383870124816895,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.13982833921909332,False,moving straight,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.35901397466659546,True,stop,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.2700871229171753,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.21061675250530243,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.31488069891929626,False,curved lane driving,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.15772704780101776,False,moving straight,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.08535072207450867,True,stop,intersection,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.2967606782913208,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.13824574649333954,False,moving straight,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.16730111837387085,False,moving straight,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.42100539803504944,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.30699390172958374,True,stop,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.1552000641822815,True,stop,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.24690240621566772,False,curved lane driving,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.11241617053747177,True,stop,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.16879355907440186,False,moving straight,city street,rainy,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.21092744171619415,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.15207810699939728,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.2496359795331955,False,moving straight,city street,sunny,daytime
+The vehicle is stopped.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.33030661940574646,True,stop,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.023396333679556847,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.07079562544822693,False,curved lane driving,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.9819356203079224,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.9801771640777588,True,moving straight,tunnel,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.012262782081961632,False,turning left,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.013134454376995564,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.9274312257766724,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.009599595330655575,True,moving straight,tunnel,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.02228066511452198,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.013774686492979527,False,curved lane driving,intersection,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.008145038038492203,True,moving straight,tunnel,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.14035481214523315,False,curved lane driving,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.003905466990545392,False,moving straight,intersection,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.002796132816001773,False,turning left,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.02200171910226345,True,moving straight,tunnel,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.008625984191894531,False,turning right,city street,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.11348651349544525,False,moving straight,bridge,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.01831256039440632,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.9828862547874451,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.9533208012580872,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.010042371228337288,False,curved lane driving,intersection,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.19483669102191925,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.0011677880538627505,False,stop,city street,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.05428443104028702,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.0036400260869413614,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.004662145860493183,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.0030667665414512157,False,moving straight,bridge,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.03234916925430298,False,moving straight,bridge,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.029656991362571716,False,moving straight,city street,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.004474824760109186,False,stop,intersection,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.00800835620611906,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.019179843366146088,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.987357497215271,True,moving straight,tunnel,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.5627844333648682,False,turning left,roundabout,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.04448438063263893,False,moving straight,bridge,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.0031126360408961773,False,moving straight,intersection,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.006424276158213615,False,moving straight,intersection,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.40964487195014954,False,turning left,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.010023544542491436,False,curved lane driving,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.09161204099655151,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.07589756697416306,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.7506607174873352,True,stop,tunnel,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.0065354774706065655,False,turning right,city street,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.03087790496647358,False,curved lane driving,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.006360191386193037,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.18831463158130646,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.9975612163543701,True,moving straight,tunnel,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.004721472039818764,False,turning right,bridge,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.026677245274186134,False,moving straight,bridge,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.2289617508649826,False,turning left,city street,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.2882571518421173,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.0035078278742730618,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.1304890364408493,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.32309412956237793,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.04570234194397926,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.1619737446308136,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.01660790480673313,False,moving straight,city street,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.8358665704727173,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.029263705015182495,False,turning right,city street,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.3381797671318054,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.9167446494102478,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.8468033075332642,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.010858885943889618,False,stop,intersection,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.6584912538528442,False,turning left,roundabout,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.045180533081293106,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.00634743319824338,False,turning left,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.016373438760638237,False,turning left,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.016590936109423637,False,moving straight,bridge,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.07784193754196167,False,moving straight,city street,snowy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.9287497401237488,True,moving straight,tunnel,cloudy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.006040513515472412,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.057303380221128464,False,moving straight,bridge,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.012051839381456375,False,stop,intersection,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.26779812574386597,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.004183386452496052,False,turning right,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.0060526835732162,False,curved lane driving,city street,rainy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.01669200323522091,False,moving straight,city street,cloudy,nighttime
+The car drives through a tunnel.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.9467594623565674,True,moving straight,tunnel,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.0030530744697898626,False,moving straight,intersection,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.0065221223048865795,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.02212679013609886,False,moving straight,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.007635262329131365,False,stop,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.011383308097720146,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.009935162030160427,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.01127257663756609,False,curved lane driving,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.012327517382800579,False,moving straight,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.0009138837340287864,False,stop,intersection,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.005634342785924673,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.004477826878428459,False,moving straight,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.003302076831459999,False,moving straight,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.0020938063971698284,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.002921252977102995,False,stop,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.005933765787631273,False,stop,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.0020357281900942326,False,curved lane driving,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.0008843783871270716,False,stop,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.02041042409837246,False,moving straight,city street,rainy,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.04304778575897217,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.0010553700849413872,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.018588993698358536,False,moving straight,city street,sunny,daytime
+The car drives through a tunnel.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.0031417023856192827,False,stop,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.0022961371578276157,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.008485977537930012,False,curved lane driving,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.1677718460559845,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.012070024386048317,False,moving straight,tunnel,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.03211003169417381,False,turning left,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.02914324775338173,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.4516562521457672,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.03763051703572273,False,moving straight,tunnel,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.005326444283127785,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.0022986861877143383,False,curved lane driving,intersection,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.2479838728904724,False,moving straight,tunnel,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.024422455579042435,False,curved lane driving,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.0071573033928871155,False,moving straight,intersection,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.0030342903919517994,False,turning left,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.021835466846823692,False,moving straight,tunnel,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.0032838471233844757,False,turning right,city street,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.6053803563117981,True,moving straight,bridge,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.004974451847374439,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.012127033434808254,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.011050180532038212,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.004037793725728989,False,curved lane driving,intersection,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.002173600485548377,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.0009743881528265774,False,stop,city street,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.008250545710325241,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.001629197970032692,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.002076747827231884,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.018007349222898483,True,moving straight,bridge,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.6858206987380981,True,moving straight,bridge,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.006630601827055216,False,moving straight,city street,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.003524237312376499,False,stop,intersection,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.09614861756563187,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.3760736882686615,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.007682425435632467,False,moving straight,tunnel,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.13980381190776825,False,turning left,roundabout,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.2845214605331421,True,moving straight,bridge,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.0009573368006385863,False,moving straight,intersection,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.002914118580520153,False,moving straight,intersection,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.42914533615112305,False,turning left,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.004836640786379576,False,curved lane driving,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.04831346496939659,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.004472700878977776,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.039794255048036575,False,stop,tunnel,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.010179588571190834,False,turning right,city street,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.009145324118435383,False,curved lane driving,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.002251091180369258,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.009168227203190327,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.5060192346572876,False,moving straight,tunnel,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.01403124537318945,True,turning right,bridge,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.00621173856779933,True,moving straight,bridge,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.011790737509727478,False,turning left,city street,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.01068152580410242,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.00548350065946579,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.00649869441986084,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.007389284670352936,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.035240065306425095,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.33569076657295227,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.007510105147957802,False,moving straight,city street,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.0035085147246718407,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.007213696371763945,False,turning right,city street,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.041488416492938995,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.005141657777130604,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.011148881167173386,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.0044084410183131695,False,stop,intersection,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.18233926594257355,False,turning left,roundabout,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.015386291779577732,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.017241420224308968,False,turning left,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.003967592027038336,False,turning left,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.40728041529655457,True,moving straight,bridge,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.028505569323897362,False,moving straight,city street,snowy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.004281957633793354,False,moving straight,tunnel,cloudy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.0028512312564998865,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.7084596753120422,True,moving straight,bridge,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.005526166874915361,False,stop,intersection,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.015081790275871754,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.00550299696624279,False,turning right,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.0027630249969661236,False,curved lane driving,city street,rainy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.0029509554151445627,False,moving straight,city street,cloudy,nighttime
+The car crosses a bridge.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.010645337402820587,False,moving straight,tunnel,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.010746735148131847,False,moving straight,intersection,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.11441436409950256,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.04228990525007248,False,moving straight,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.015824628993868828,False,stop,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.009772389195859432,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.014324557036161423,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.3245983421802521,False,curved lane driving,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.2959016263484955,False,moving straight,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.0014222683385014534,False,stop,intersection,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.0010724595049396157,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.0019565699622035027,False,moving straight,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.0008792383596301079,False,moving straight,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.0036029282491654158,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.003294724505394697,False,stop,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.0034117132890969515,False,stop,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.005887579172849655,False,curved lane driving,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.001786058652214706,False,stop,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.019344300031661987,False,moving straight,city street,rainy,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.026997966691851616,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.005125338677316904,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.042936813086271286,False,moving straight,city street,sunny,daytime
+The car crosses a bridge.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.0015920753357931972,False,stop,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.005176912527531385,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.4142600893974304,True,curved lane driving,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.08631808310747147,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.15986202657222748,False,moving straight,tunnel,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.013906765729188919,False,turning left,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.0033821433316916227,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.009473302401602268,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.005347325000911951,False,moving straight,tunnel,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.4158343970775604,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.4237227141857147,True,curved lane driving,intersection,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.00884238537400961,False,moving straight,tunnel,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.419404536485672,True,curved lane driving,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.08632926642894745,False,moving straight,intersection,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.003434398677200079,False,turning left,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.0020956308580935,False,moving straight,tunnel,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.006757302675396204,False,turning right,city street,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.003985448740422726,False,moving straight,bridge,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.46175557374954224,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.06036330386996269,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.08871681243181229,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.4307993948459625,True,curved lane driving,intersection,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.40708425641059875,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.02571197971701622,False,stop,city street,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.4501214027404785,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.012593069113790989,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.003808029228821397,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.012192420661449432,False,moving straight,bridge,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.015851475298404694,False,moving straight,bridge,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.04527990147471428,False,moving straight,city street,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.0802728459239006,False,stop,intersection,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.00806400552392006,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.009728292003273964,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.008152153342962265,False,moving straight,tunnel,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.013638991862535477,False,turning left,roundabout,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.026812708005309105,False,moving straight,bridge,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.06684555113315582,False,moving straight,intersection,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.10784254968166351,False,moving straight,intersection,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.06667538732290268,False,turning left,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.38670653104782104,True,curved lane driving,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.4422583281993866,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.39763325452804565,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.003865707665681839,False,stop,tunnel,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.013386846520006657,False,turning right,city street,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.4255879819393158,True,curved lane driving,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.4016305208206177,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.415177583694458,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.1983100324869156,False,moving straight,tunnel,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.013162246905267239,False,turning right,bridge,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.04914834722876549,False,moving straight,bridge,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.058465804904699326,False,turning left,city street,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.39984193444252014,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.005822575651109219,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.4675057530403137,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.38039830327033997,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.4258505702018738,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.010972671210765839,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.055094748735427856,False,moving straight,city street,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.06639276444911957,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.017519189044833183,False,turning right,city street,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.49965426325798035,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.07289748638868332,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.36492517590522766,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.40004590153694153,True,stop,intersection,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.016458436846733093,False,turning left,roundabout,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.0077591706067323685,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.0071344212628901005,False,turning left,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.00614379346370697,False,turning left,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.009544755332171917,False,moving straight,bridge,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.11936693638563156,False,moving straight,city street,snowy,daytime
+The scene is at night.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.1835748702287674,False,moving straight,tunnel,cloudy,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.011708062142133713,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.025899777188897133,False,moving straight,bridge,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.3511989116668701,True,stop,intersection,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.006864707916975021,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.004078196361660957,False,turning right,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.3673172891139984,True,curved lane driving,city street,rainy,nighttime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.4183943569660187,True,moving straight,city street,cloudy,nighttime
+The scene is at night.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.1703319251537323,False,moving straight,tunnel,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.007642220705747604,False,moving straight,intersection,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.0027574505656957626,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.04263235256075859,False,moving straight,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.0034267075825482607,False,stop,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.0049256510101258755,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.00802682526409626,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.01778293028473854,False,curved lane driving,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.009107356891036034,False,moving straight,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.014338013716042042,False,stop,intersection,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.002072726609185338,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.009632469154894352,False,moving straight,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.010700419545173645,False,moving straight,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.004192650783807039,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.009301876649260521,False,stop,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.012829449027776718,False,stop,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.004149493295699358,False,curved lane driving,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.033488720655441284,False,stop,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.011179539375007153,False,moving straight,city street,rainy,daytime
+The scene is at night.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.003234168980270624,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.004659318830817938,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.005991744343191385,False,moving straight,city street,sunny,daytime
+The scene is at night.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.00406924681738019,False,stop,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.0020338238682597876,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.03423354774713516,False,curved lane driving,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.06295913457870483,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.009189690463244915,False,moving straight,tunnel,cloudy,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.0024104733020067215,False,turning left,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.0014679773012176156,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.14817345142364502,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.00617173733189702,False,moving straight,tunnel,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.01648680679500103,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.02504296600818634,True,curved lane driving,intersection,rainy,nighttime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.009253323078155518,False,moving straight,tunnel,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.04157745838165283,False,curved lane driving,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.08444024622440338,False,moving straight,intersection,snowy,daytime
+It is raining.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.001425258000381291,False,turning left,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.006858893670141697,False,moving straight,tunnel,sunny,daytime
+It is raining.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.006393040996044874,False,turning right,city street,cloudy,daytime
+It is raining.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.039835020899772644,True,moving straight,bridge,rainy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.014321628026664257,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.026639483869075775,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.05351359769701958,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.11009451001882553,True,curved lane driving,intersection,rainy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.005328207742422819,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.1018601655960083,False,stop,city street,snowy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.03652689605951309,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.002156516769900918,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.004987685941159725,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.023773489519953728,False,moving straight,bridge,cloudy,daytime
+It is raining.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.0551612488925457,True,moving straight,bridge,rainy,daytime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.08018381148576736,False,moving straight,city street,snowy,daytime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.03268493711948395,False,stop,intersection,snowy,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.003558232681825757,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.0032753837294876575,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.009898881427943707,False,moving straight,tunnel,cloudy,daytime
+It is raining.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.25901636481285095,True,turning left,roundabout,rainy,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.026226717978715897,False,moving straight,bridge,cloudy,daytime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.02082143723964691,False,moving straight,intersection,snowy,daytime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.11806923896074295,False,moving straight,intersection,snowy,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.011612852104008198,False,turning left,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.03580675646662712,False,curved lane driving,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.025201920419931412,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.07446370273828506,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.06840801984071732,False,stop,tunnel,cloudy,daytime
+It is raining.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.01210652757436037,False,turning right,city street,cloudy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.016289222985506058,False,curved lane driving,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.005269750952720642,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.021545981988310814,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.0052330028265714645,False,moving straight,tunnel,sunny,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.16037346422672272,False,turning right,bridge,cloudy,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.04676853120326996,False,moving straight,bridge,cloudy,daytime
+It is raining.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.006743874400854111,False,turning left,city street,cloudy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.030495667830109596,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.013351737521588802,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.031330984085798264,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.04705778881907463,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.010206731967628002,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.007895629853010178,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.04723377525806427,False,moving straight,city street,snowy,daytime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.03207006677985191,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.005754508543759584,False,turning right,city street,cloudy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.008864674717187881,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.032169122248888016,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.026964498683810234,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.059279222041368484,True,stop,intersection,rainy,nighttime
+It is raining.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.09587505459785461,True,turning left,roundabout,rainy,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.006538834422826767,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.002266533672809601,False,turning left,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.002495442982763052,False,turning left,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.054706789553165436,True,moving straight,bridge,rainy,daytime
+It is raining.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.06823291629552841,False,moving straight,city street,snowy,daytime
+It is raining.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.024630574509501457,False,moving straight,tunnel,cloudy,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.008389648050069809,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.06741956621408463,True,moving straight,bridge,rainy,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.008359374478459358,True,stop,intersection,rainy,nighttime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.056315939873456955,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.007473775185644627,False,turning right,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.016435667872428894,True,curved lane driving,city street,rainy,nighttime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.018152501434087753,False,moving straight,city street,cloudy,nighttime
+It is raining.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.0497409924864769,True,moving straight,tunnel,rainy,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.0015502956230193377,False,moving straight,intersection,sunny,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.0017675304552540183,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.2926827073097229,True,moving straight,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.002434022957459092,False,stop,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.0014282966731116176,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.002040067221969366,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.0023753829300403595,False,curved lane driving,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.14500737190246582,True,moving straight,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.04702547565102577,True,stop,intersection,rainy,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.0009780513355508447,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.08165960758924484,True,moving straight,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.0035634504165500402,True,moving straight,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.0018998293671756983,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.009916290640830994,True,stop,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.04798208922147751,True,stop,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.001829880871810019,False,curved lane driving,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.05141739174723625,True,stop,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.1359165757894516,True,moving straight,city street,rainy,daytime
+It is raining.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.0015292990719899535,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.0019513977458700538,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.0018354450585320592,False,moving straight,city street,sunny,daytime
+It is raining.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.002530774101614952,False,stop,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.00026534238713793457,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.005115600302815437,False,curved lane driving,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.0329156294465065,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.0034024070482701063,False,moving straight,tunnel,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.0007357982103712857,False,turning left,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.0003231880546081811,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.018218806013464928,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.0009626646642573178,False,moving straight,tunnel,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.0042572664096951485,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.013265758752822876,False,curved lane driving,intersection,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.0017681026365607977,False,moving straight,tunnel,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.003699320135638118,False,curved lane driving,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.041533052921295166,True,moving straight,intersection,snowy,daytime
+It is snowing.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.000481161056086421,False,turning left,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.0008603061432950199,False,moving straight,tunnel,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.0046834624372422695,False,turning right,city street,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.012274582870304585,False,moving straight,bridge,rainy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.003019598312675953,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.014468726702034473,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.0170670785009861,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.03133878856897354,False,curved lane driving,intersection,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.002760556060820818,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.02470797300338745,True,stop,city street,snowy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.0085668433457613,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.0005250577814877033,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.001085886382497847,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.0018797580851241946,False,moving straight,bridge,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.00820160936564207,False,moving straight,bridge,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.03982771933078766,True,moving straight,city street,snowy,daytime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.018749631941318512,True,stop,intersection,snowy,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.00045370892621576786,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.0006029543583281338,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.002220217604190111,False,moving straight,tunnel,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.09384610503911972,False,turning left,roundabout,rainy,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.0034285609144717455,False,moving straight,bridge,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.010244714096188545,True,moving straight,intersection,snowy,daytime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.0650450810790062,True,moving straight,intersection,snowy,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.0019667213782668114,False,turning left,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.006680929102003574,False,curved lane driving,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.00867370143532753,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.02439163811504841,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.0060945055447518826,False,stop,tunnel,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.005041425582021475,False,turning right,city street,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.0036429704632610083,False,curved lane driving,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.0043182107619941235,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.00635334849357605,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.0013374489499256015,False,moving straight,tunnel,sunny,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.003998251631855965,False,turning right,bridge,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.006623275112360716,False,moving straight,bridge,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.005059153772890568,False,turning left,city street,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.007374861277639866,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.0019745961762964725,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.003547735046595335,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.0271246787160635,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.0020316513255238533,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.002476910362020135,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.03751736506819725,True,moving straight,city street,snowy,daytime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.017485562711954117,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.001645878073759377,False,turning right,city street,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.003243237268179655,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.012488953769207,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.011065318249166012,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.008632732555270195,False,stop,intersection,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.03180374577641487,False,turning left,roundabout,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.0007545128464698792,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.0006393007934093475,False,turning left,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.0005489844479598105,False,turning left,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.01219561044126749,False,moving straight,bridge,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.06694566458463669,True,moving straight,city street,snowy,daytime
+It is snowing.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.004520797170698643,False,moving straight,tunnel,cloudy,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.0024368194863200188,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.01745062693953514,False,moving straight,bridge,rainy,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.0074560195207595825,False,stop,intersection,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.009018541313707829,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.002127524930983782,False,turning right,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.0072024124674499035,False,curved lane driving,city street,rainy,nighttime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.004751875065267086,False,moving straight,city street,cloudy,nighttime
+It is snowing.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.024079453200101852,False,moving straight,tunnel,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.00036619557067751884,False,moving straight,intersection,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.0002944446459878236,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.013916957192122936,False,moving straight,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.000368376262485981,False,stop,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.00036689898115582764,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.0003220002690795809,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.001444999361410737,False,curved lane driving,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.025235338136553764,False,moving straight,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.011821216903626919,False,stop,intersection,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.00015312913456000388,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.006743431091308594,False,moving straight,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.002125936094671488,False,moving straight,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.0003941327449865639,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.005300944205373526,False,stop,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.005733653903007507,False,stop,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.00047994847409427166,False,curved lane driving,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.011362203396856785,False,stop,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.0387413427233696,False,moving straight,city street,rainy,daytime
+It is snowing.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.0005091300699859858,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.000403491168981418,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.0004587298899423331,False,moving straight,city street,sunny,daytime
+It is snowing.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.0004831280675716698,False,stop,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_19/02,0.0021192238200455904,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/04,0.0418555922806263,True,curved lane driving,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/02,0.1808464229106903,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/03,0.05696886405348778,False,moving straight,tunnel,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/02,0.08706368505954742,False,turning left,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_14/03,0.3014177978038788,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/01,0.2525745630264282,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/01,0.7069358229637146,False,moving straight,tunnel,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/02,0.021927043795585632,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/04,0.007123425602912903,True,curved lane driving,intersection,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/02,0.7051148414611816,False,moving straight,tunnel,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/01,0.01945634000003338,True,curved lane driving,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/02,0.0155923618003726,True,moving straight,intersection,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/02,0.07413782924413681,False,turning left,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/04,0.6768929362297058,False,moving straight,tunnel,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_13/01,0.014642216265201569,False,turning right,city street,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/01,0.8821389675140381,False,moving straight,bridge,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/03,0.0031511185225099325,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/03,0.03650582954287529,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/03,0.0552271232008934,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/03,0.01137709803879261,True,curved lane driving,intersection,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/03,0.02550201304256916,True,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/01,0.009990434162318707,True,stop,city street,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/04,0.00570320850238204,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_27/04,0.028965335339307785,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_7/02,0.06152636930346489,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/02,0.2609845697879791,False,moving straight,bridge,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/04,0.8010222911834717,False,moving straight,bridge,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/02,0.024894049391150475,True,moving straight,city street,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/01,0.023656772449612617,True,stop,intersection,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_3/01,0.2812122106552124,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_11/04,0.6606537103652954,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/02,0.2837531268596649,False,moving straight,tunnel,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/03,0.21451647579669952,False,turning left,roundabout,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/03,0.5933125615119934,False,moving straight,bridge,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/04,0.008347036316990852,True,moving straight,intersection,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_2/03,0.006047992501407862,True,moving straight,intersection,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_2/01,0.854269802570343,True,turning left,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/02,0.03089953027665615,True,curved lane driving,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/01,0.027508124709129333,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/01,0.003829247783869505,False,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/01,0.27423807978630066,False,stop,tunnel,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_17/02,0.019334938377141953,False,turning right,city street,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_16/03,0.06060679256916046,True,curved lane driving,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/04,0.018491068854928017,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/04,0.04239800199866295,False,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_16/03,0.8239577412605286,False,moving straight,tunnel,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/01,0.03815745189785957,False,turning right,bridge,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_1/04,0.026945235207676888,False,moving straight,bridge,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_8/03,0.03751678764820099,False,turning left,city street,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/02,0.022528821602463722,True,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_15/02,0.48777851462364197,True,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/01,0.02429114654660225,True,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/02,0.049647510051727295,False,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/03,0.03304513543844223,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_18/03,0.057341910898685455,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/04,0.06702764332294464,True,moving straight,city street,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/01,0.01511219423264265,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_14/02,0.0842488557100296,False,turning right,city street,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_17/02,0.017351433634757996,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_1/04,0.02970944717526436,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_14/03,0.06527573615312576,False,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/02,0.020779402926564217,True,stop,intersection,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_6/02,0.3990480601787567,False,turning left,roundabout,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_20/04,0.4749094843864441,False,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/03,0.4269160032272339,False,turning left,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_4/02,0.12737005949020386,False,turning left,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/03,0.4887787401676178,False,moving straight,bridge,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205170303_M801C06L62G031_2673_end_extract/drive_1/03,0.05192773416638374,True,moving straight,city street,snowy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231106095132_M801C06L62G031_2673_end_extract/drive_2/04,0.04662913456559181,False,moving straight,tunnel,cloudy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_21/02,0.0718025416135788,True,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_5/02,0.7884949445724487,False,moving straight,bridge,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_13/01,0.02326262928545475,True,stop,intersection,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/04,0.022886842489242554,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_1/02,0.18694306910037994,True,turning right,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_15/04,0.02298971638083458,True,curved lane driving,city street,rainy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_18/01,0.028724826872348785,True,moving straight,city street,cloudy,nighttime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240205094744_M801C06L62G031_2673_end_extract/drive_2/02,0.04174661636352539,False,moving straight,tunnel,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_26/04,0.3168255388736725,True,moving straight,intersection,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/03,0.33536583185195923,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_7/02,0.2292029708623886,True,moving straight,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_15/04,0.07050557434558868,False,stop,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_5/03,0.7085260152816772,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_22/03,0.04436847195029259,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/03,0.3220052421092987,False,curved lane driving,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_4/02,0.14744240045547485,True,moving straight,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_13/01,0.006114079616963863,True,stop,intersection,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_21/01,0.001117865671403706,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/231116093002_M801C06L62G031_2673_end_extract/drive_1/03,0.012538526207208633,True,moving straight,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_21/02,0.04357364773750305,False,moving straight,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_18/03,0.09984449297189713,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240322135559_M801C06L62G031_2673_end_extract/drive_15/01,0.04593995213508606,True,stop,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018102947_M801C06L62G031_2673_end_extract/drive_4/01,0.0020354290027171373,False,stop,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822084904_M801C06L62G031_2673_end_extract/drive_6/01,0.15244941413402557,False,curved lane driving,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/241018130234_M801C06L62G031_2673_end_extract/drive_11/01,0.04790620505809784,True,stop,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240325141234_M801C06L62G031_2673_end_extract/drive_11/02,0.01908157765865326,True,moving straight,city street,rainy,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_10/04,0.4712349474430084,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240529140943_M801C06L62G031_2673_end_extract/drive_31/03,0.2927192747592926,True,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240822134456_M801C06L62G031_2673_end_extract/drive_8/03,0.1260436624288559,False,moving straight,city street,sunny,daytime
+The vehicle drives on a multi-lane highway.,<DATASET_ROOT>/240530090206_M801C06L62G031_2673_end_extract/drive_24/04,0.0633372887969017,False,stop,city street,sunny,daytime
