@@ -57,6 +57,11 @@ VerifiedSearchResult (search_score, is_relevant, matched_sentence,
 | weather | 71.5% | 보통 | 200클립(100/100) |
 | motion (그 외: 직진/좌우회전/커브) | 68.5% | 낮음 | 200클립(100/100) |
 
+![컷오프/검증 holdout 성능](images/fig8_cutoff_holdout_performance.png)
+
+*(200클립 재검증치 기준으로 갱신된 최신 차트. 터널·비는 ①검색 컷오프,
+나머지 3개(motion/weather/time_of_day)는 ②검증 필드다.)*
+
 **검색 컷오프(①)**: 검증된 9개 도메인 검색어 중 **터널**(precision 100%,
 recall 37.5%)과 **비**(precision/recall 68.3%/68.3%) **2개만** 관련성
 컷오프(`is_relevant`)를 확보했다. 이건 740클립 전체를 370/370로 나눠 검증한
