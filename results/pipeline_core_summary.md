@@ -1,6 +1,6 @@
 # 검색 후 검증 — 파이프라인 핵심 요약
 
-*전체 실험/시행착오 과정은 `final_report.md`, 한계 전체 목록(24개 항목)은
+*전체 실험/시행착오 과정은 `final_report.md`, 한계 전체 목록(25개 항목)은
 `KNOWN_LIMITATIONS.md` 참고. 이 문서는 "지금 이 순간의 파이프라인"만
 압축해서 정리한 것으로, 과거 버전이나 폐기된 시도는 담지 않는다.*
 
@@ -87,4 +87,4 @@ recall 37.5%)과 **비**(precision/recall 68.3%/68.3%) **2개만** 관련성
 |---|---|
 | `README.md` | 설치/실행법 |
 | `results/final_report.md` | 전체 실험/설계 서술형 리포트 |
-| `KNOWN_LIMITATIONS.md` | 확인된 한계 전체 목록(24개 항목) |
+| `KNOWN_LIMITATIONS.md` | 확인된 한계 전체 목록(25개 항목) |
